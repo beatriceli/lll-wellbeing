@@ -1,0 +1,32 @@
+,0
+StartDate,Start Date
+EndDate,End Date
+Status,Response Type
+IPAddress,IP Address
+Progress,Progress
+Duration (in seconds),Duration (in seconds)
+Finished,Finished
+RecordedDate,Recorded Date
+ResponseId,Response ID
+RecipientLastName,Recipient Last Name
+RecipientFirstName,Recipient First Name
+RecipientEmail,Recipient Email
+ExternalReference,External Data Reference
+LocationLatitude,Location Latitude
+LocationLongitude,Location Longitude
+DistributionChannel,Distribution Channel
+UserLanguage,User Language
+Q3_1,How would you rate your overall sleep last night? - 1
+Q4,"How often did you have trouble staying awake yesterday while doing daily activities (e.g. while in meetings, eating meals, doing household chores etc.)? - Selected Choice"
+Q4_5_TEXT,"How often did you have trouble staying awake yesterday while doing daily activities (e.g. while in meetings, eating meals, doing household chores etc.)? - Others - Text"
+Q15,What time did you go to sleep?
+Q6,What time did you wake up?
+Q28,"Yesterday, I exercised or went for a walk"
+Q29,"Yesterday, I interacted with"
+Q22_1,"Today, I feel (1) stressed to (5) relaxed"
+Q23_1,"Today, I feel (1) distracted to (5) productive"
+Q27_1,How are you feeling today?
+Q34,"Describe your current feelings in a few words (e.g., stressed, frustrated, angry, etc) - Selected Choice"
+Q34_6_TEXT,"Describe your current feelings in a few words (e.g., stressed, frustrated, angry, etc) - Other - Text"
+Q35,Is your current feeling related to:
+RecipientLastName.1,RecipientLastName
