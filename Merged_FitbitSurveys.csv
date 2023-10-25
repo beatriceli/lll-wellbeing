@@ -1,0 +1,369 @@
+pid,wakeDate,day_name,bedtime,wakeup,duration,TST,REM:nREM,deep,light,rem,sleep,Q4,rep_bedtime,rep_wakeup,activity,Q29,stress,productivity,Q27_1,Q34,Q35,steps
+edr,4/28/22,Thursday,4/28/22 1:51,4/28/22 10:30,31140,7.633333333,0.275766017,6060,15480,5940,5,None,4/28/22 2:00,4/28/22 10:00,0,"My Friends,My colleagues/classsmates/students",3,4,5,"Neutral,Stressed",Work,14713
+edr,4/29/22,Friday,4/29/22 1:13,4/29/22 9:07,28470,7.475,0.321060383,4110,16260,6540,5,None,4/29/22 1:08,4/29/22 9:04,1,"My Family,My Friends,My colleagues/classsmates/students",5,3,6,"Neutral,Happiness","Work,Personal",4316
+edr,5/2/22,Monday,5/2/22 0:59,5/2/22 8:27,26880,6.916666667,0.328,5760,12990,6150,5,None,5/2/22 1:00,5/2/22 8:20,1,My Friends,4,3,6,Neutral,Work,3034
+edr,5/3/22,Tuesday,5/3/22 1:13,5/3/22 8:22,25770,6.25,0.315789474,2100,15000,5400,2,None,5/3/22 1:04,5/3/22 8:10,0,"My Family,My Friends,My colleagues/classsmates/students",4,4,6,Neutral,Work,13436
+edr,5/4/22,Wednesday,5/4/22 1:24,5/4/22 8:37,25980,6.683333333,0.442446043,3750,12930,7380,5,Twice,5/4/22 1:10,5/4/22 8:20,1,"My Friends,My colleagues/classsmates/students",3,3,3,"Neutral,Stressed",Work,14334
+edr,5/5/22,Thursday,5/5/22 1:34,5/5/22 9:37,28980,7.458333333,0.450567261,5190,13320,8340,5,None,5/5/22 1:30,5/5/22 9:20,1,"My Family,My Friends,My colleagues/classsmates/students",2,4,3,"Neutral,Happiness,Stressed","Work,Personal,Yesterday's feelings",10117
+edr,5/6/22,Friday,5/6/22 0:37,5/6/22 9:29,31950,8.4,0.322834646,6270,16590,7380,5,None,5/6/22 0:30,5/6/22 9:30,1,"My Family,My Friends,My colleagues/classsmates/students",5,2,6,"Neutral,Happiness","Work,Sleep",10986
+edr,5/7/22,Saturday,5/7/22 4:53,5/7/22 10:11,19110,4.975,0.168297456,5040,10290,2580,4,Once,5/7/22 4:00,5/7/22 10:00,1,"My Friends,My colleagues/classsmates/students",5,4,7,"Happiness,Excited","Work,Sleep,Personal,Yesterday's feelings",6519
+edr,5/10/22,Tuesday,5/10/22 1:10,5/10/22 8:09,25140,6.491666667,0.357142857,4830,12390,6150,4,None,5/10/22 1:10,5/10/22 8:25,1,"My Family,My Friends,New people",3,3,6,Neutral,Work,13250
+edr,5/11/22,Wednesday,5/11/22 1:46,5/11/22 7:59,22350,5.616666667,0.214414414,4080,12570,3570,3,None,5/11/22 2:00,5/11/22 8:00,1,"My Family,My Friends,My colleagues/classsmates/students",3,4,5,Neutral,Work,16044
+edr,5/12/22,Thursday,5/12/22 1:50,5/12/22 9:02,25890,6.716666667,0.481617647,5580,10740,7860,4,None,5/12/22 1:30,5/12/22 9:00,1,"My Family,My Friends,My colleagues/classsmates/students",2,4,,Neutral,Work,7005
+edr,5/13/22,Friday,5/13/22 1:02,5/13/22 9:38,30990,8.141666667,0.343878955,4950,16860,7500,5,None,5/13/22 1:00,5/13/22 9:30,0,"My Family,My Friends,My colleagues/classsmates/students,New people",5,4,6,"Neutral,Happiness","Work,Yesterday's feelings",7887
+edr,5/16/22,Monday,5/16/22 1:25,5/16/22 8:16,24690,6.508333333,0.384751773,4800,12120,6510,5,None,5/16/22 1:30,5/16/22 8:00,0,"My Family,My Friends,New people",4,2,6,"Neutral,Happiness","Personal,Yesterday's feelings",7356
+edr,5/17/22,Tuesday,5/17/22 1:32,5/17/22 7:51,22770,5.808333333,0.353398058,5370,10080,5460,3,None,5/17/22 1:30,5/17/22 8:14,0,"My Friends,My colleagues/classsmates/students",4,4,6,Neutral,Work,3302
+edr,5/18/22,Wednesday,5/18/22 1:15,5/18/22 7:47,23490,5.925,0.256183746,3930,13050,4350,4,None,5/18/22 1:00,5/18/22 7:40,0,"My Friends,My colleagues/classsmates/students",3,5,6,Neutral,Work,3347
+edr,5/19/22,Thursday,5/19/22 1:55,5/19/22 8:53,25080,6.541666667,0.512524085,4950,10620,7980,3,None,5/19/22 2:00,5/19/22 8:30,0,"My Family,My Friends,My colleagues/classsmates/students",3,5,4,Stressed,Work,12364
+edr,5/20/22,Friday,5/20/22 2:09,5/20/22 8:15,21960,5.716666667,0.388663968,3840,10980,5760,3,None,5/20/22 2:00,5/20/22 8:00,1,"My Family,My Friends,My colleagues/classsmates/students",5,3,6,Neutral,"Work,Personal",5442
+edr,5/21/22,Saturday,5/21/22 1:32,5/21/22 7:23,21060,5.816666667,,0,0,0,4,None,5/21/22 1:30,5/21/22 10:40,0,"My Family,My Friends,My colleagues/classsmates/students",3,3,3,Anger,Work,9445
+edr,5/24/22,Tuesday,5/24/22 1:39,5/24/22 5:42,14580,3.266666667,0.113636364,2490,8070,1200,1,None,5/24/22 2:00,5/24/22 5:27,0,My Friends,3,5,5,Neutral,Work,8354
+edr,5/25/22,Wednesday,5/25/22 0:15,5/25/22 8:01,27960,7.116666667,0.319938176,4890,14520,6210,5,Three or more times,5/25/22 0:15,5/25/22 7:30,1,"My Friends,My colleagues/classsmates/students",5,2,3,Other,"Work,Sleep",20066
+edr,6/6/22,Monday,6/6/22 1:00,6/6/22 7:44,24210,6.358333333,0.293220339,4020,13680,5190,4,None,6/6/22 0:30,6/6/22 7:43,1,My Friends,5,3,5,Neutral,"Work,Personal",8921
+edr,6/7/22,Tuesday,6/7/22 1:19,6/7/22 8:35,26160,6.816666667,0.422608696,4080,13170,7290,5,None,6/7/22 1:00,6/7/22 8:30,1,"My Family,My Friends",4,4,5,Neutral,Work,9021
+edr,6/8/22,Wednesday,6/8/22 0:33,6/8/22 8:02,26940,7.141666667,0.38897893,5340,13170,7200,5,None,6/8/22 0:00,6/8/22 8:00,1,"My Family,My Friends,My colleagues/classsmates/students",4,4,5,Neutral,Work,8628
+edr,6/9/22,Thursday,6/9/22 1:48,6/9/22 8:07,22740,5.916666667,0.422845691,3270,11700,6330,4,None,6/9/22 1:37,6/9/22 8:00,0,My colleagues/classsmates/students,3,4,5,Neutral,Work,4574
+edr,6/14/22,Tuesday,6/14/22 0:49,6/14/22 8:31,27750,7.183333333,0.363924051,4020,14940,6900,5,None,6/14/22 0:30,6/14/22 8:20,0,My Friends,3,4,5,Neutral,Work,8336
+edr,6/15/22,Wednesday,6/15/22 2:36,6/15/22 7:23,17190,4.408333333,0.210526316,3120,9990,2760,2,None,6/15/22 2:30,6/15/22 7:20,0,My Friends,3,4,,Neutral,Work,6185
+edr,6/16/22,Wednesday,6/15/22 22:48,6/16/22 7:54,32790,8.083333333,0.120092379,4650,21330,3120,5,Three or more times,6/15/22 22:00,6/16/22 7:30,0,"My Friends,My colleagues/classsmates/students",2,2,2,Stressed,Work,15122
+egl,4/28/22,Thursday,4/28/22 0:38,4/28/22 8:36,28680,7.333333333,0.230769231,3240,18210,4950,3,Once,4/28/22 0:30,4/28/22 8:30,1,"My Friends,My colleagues/classsmates/students",3,3,5,Neutral,Work,11326
+egl,4/29/22,Friday,4/29/22 1:25,4/29/22 9:00,27330,6.566666667,0.170876672,3960,16230,3450,2,Once,4/29/22 1:20,4/29/22 9:00,1,My Friends,3,3,,Neutral,Work,9350
+egl,4/30/22,Friday,4/29/22 22:38,4/30/22 9:01,37410,9.816666667,0.290251917,6810,20580,7950,5,None,4/29/22 22:30,4/30/22 9:00,1,"My Friends,My colleagues/classsmates/students",4,3,5,Neutral,Work,9857
+egl,5/1/22,Sunday,5/1/22 1:26,5/1/22 8:41,26100,6.833333333,0.364392679,3210,14820,6570,3,None,5/1/22 1:26,5/1/22 8:41,1,"My Friends,My colleagues/classsmates/students",4,3,6,Neutral,Personal,9916
+egl,5/2/22,Sunday,5/1/22 23:16,5/2/22 9:00,35070,9.108333333,0.339460784,4740,19740,8310,4,None,5/1/22 23:15,5/2/22 9:10,1,My Friends,3,3,,Neutral,Personal,3866
+egl,5/3/22,Tuesday,5/3/22 1:15,5/3/22 9:29,29640,7.783333333,0.295423024,3300,18330,6390,4,None,5/3/22 1:15,5/3/22 9:25,0,My Friends,4,3,5,Neutral,Work,6714
+egl,5/4/22,Tuesday,5/3/22 23:14,5/4/22 8:21,32850,8.091666667,0.330136986,3570,18330,7230,4,None,5/3/22 23:10,5/4/22 8:20,1,"My Friends,My colleagues/classsmates/students",3,3,,Neutral,Work,8228
+egl,5/6/22,Friday,5/6/22 0:52,5/6/22 8:59,29250,7.45,0.224657534,4680,17220,4920,3,None,5/6/22 0:50,5/6/22 9:00,1,"My Friends,My colleagues/classsmates/students",3,3,5,Neutral,Work,11159
+egl,5/11/22,Wednesday,5/11/22 1:13,5/11/22 8:29,26190,6.8,0.314009662,1710,16920,5850,2,None,5/11/22 1:10,5/11/22 8:30,1,"My Family,My Friends",2,3,3,Stressed,Personal,15519
+egl,5/12/22,Thursday,5/12/22 1:17,5/12/22 9:34,29850,7.958333333,0.400293255,3840,16620,8190,4,None,5/12/22 1:15,5/12/22 9:30,2,"My Family,My Friends",3,3,6,Neutral,Work,13115
+egl,5/13/22,Friday,5/13/22 1:21,5/13/22 9:11,28230,7.091666667,0.217453505,2820,18150,4560,3,Once,5/13/22 1:20,5/13/22 9:00,1,"My Family,My Friends",3,3,6,Neutral,Health,9416
+egl,5/16/22,Sunday,5/15/22 22:38,5/16/22 9:55,40620,10.13333333,0.205153617,4860,25410,6210,4,None,5/15/22 22:40,5/16/22 9:55,0,"My Family,My Friends",3,3,5,Neutral,Personal,6688
+egl,5/17/22,Monday,5/16/22 23:42,5/17/22 8:00,29880,7.55,0.164524422,3780,19560,3840,3,None,5/16/22 23:42,5/17/22 8:00,0,"My Family,My Friends",3,3,5,Neutral,Work,7109
+egl,5/18/22,Tuesday,5/17/22 22:43,5/18/22 6:44,28860,7.475,0.274147727,3330,17790,5790,3,Once,5/17/22 22:40,5/18/22 6:40,1,My Friends,3,3,4,Neutral,Work,10182
+egl,5/19/22,Wednesday,5/18/22 21:57,5/19/22 6:34,31050,7.958333333,0.204287516,3780,20010,4860,3,None,5/18/22 22:00,5/19/22 6:34,1,My Friends,3,3,4,Neutral,Work,13661
+egl,5/20/22,Thursday,5/19/22 23:01,5/20/22 6:44,27810,6.35,0.207606973,2820,16110,3930,2,Once,5/19/22 23:00,5/20/22 6:45,1,My Friends,3,3,4,Neutral,Work,9544
+egl,5/21/22,Saturday,5/21/22 0:42,5/21/22 7:57,26100,6.45,0.198142415,4320,15060,3840,3,Once,5/21/22 0:40,5/21/22 8:00,1,My Friends,3,3,5,Neutral,Personal,10532
+egl,5/22/22,Saturday,5/21/22 23:52,5/22/22 6:59,25650,6.716666667,0.350083752,4560,13350,6270,2,Once,5/21/22 23:50,5/22/22 7:00,1,My Friends,3,3,5,Neutral,Personal,10043
+egl,5/23/22,Monday,5/23/22 0:11,5/23/22 7:07,24960,6.541666667,0.184012066,1920,17970,3660,2,Once,5/23/22 0:10,5/23/22 7:00,1,My Friends,3,3,5,Happiness,"Personal,Yesterday's feelings",12084
+egl,5/24/22,Monday,5/23/22 23:37,5/24/22 6:56,26340,6.691666667,0.314238953,3840,14490,5760,3,Once,5/23/22 23:35,5/24/22 7:00,2,My Friends,3,3,3,Neutral,Work,10900
+egl,5/25/22,Tuesday,5/24/22 23:27,5/25/22 7:54,30450,7.766666667,0.308988764,3090,18270,6600,3,None,5/24/22 23:20,5/25/22 8:00,1,My Friends,3,2,5,Neutral,Work,8502
+egl,5/26/22,Wednesday,5/25/22 23:28,5/26/22 6:59,27060,6.708333333,0.317512275,4080,14250,5820,3,None,5/25/22 23:30,5/26/22 7:00,1,My Friends,3,3,5,Neutral,Work,13779
+egl,5/27/22,Friday,5/27/22 0:54,5/27/22 8:31,27450,7.1,0.394435352,4110,14220,7230,3,None,5/27/22 0:54,5/27/22 8:30,1,"My Friends,My colleagues/classsmates/students",3,2,4,Neutral,Work,15788
+egl,5/28/22,Friday,5/27/22 23:13,5/28/22 8:05,31950,8.358333333,0.25846926,4290,19620,6180,4,None,5/27/22 23:15,5/28/22 8:15,1,"My Friends,New people",3,3,4,Neutral,Work,2000
+egl,5/29/22,Sunday,5/29/22 2:21,5/29/22 9:44,26610,6.508333333,0.143484627,2610,17880,2940,3,None,5/29/22 2:20,5/29/22 9:45,0,"My Family,My Friends",3,3,4,Neutral,Personal,4650
+egl,5/30/22,Monday,5/30/22 1:13,5/30/22 9:36,30180,7.683333333,0.33044733,3900,16890,6870,3,None,5/30/22 1:06,5/30/22 9:30,0,My Friends,3,3,4,Neutral,Personal,4433
+egl,5/31/22,Monday,5/30/22 23:40,5/31/22 8:03,30210,7.983333333,0.232947233,4050,19260,5430,3,Once,5/30/22 23:40,5/31/22 8:00,0,"My Family,My Friends",3,3,4,Neutral,Personal,4372
+egl,6/4/22,Friday,6/3/22 22:51,6/4/22 8:23,34320,8.958333333,0.255841121,5760,19920,6570,4,None,6/3/22 22:50,6/4/22 8:20,1,"My Family,My Friends",3,3,4,Neutral,Personal,9265
+egl,6/5/22,Sunday,6/5/22 2:16,6/5/22 9:53,27390,7.283333333,0.261183261,3300,17490,5430,3,None,6/5/22 2:10,6/5/22 9:45,,"My Family,My Friends",4,3,5,Neutral,Personal,8161
+egl,6/6/22,Monday,6/6/22 1:44,6/6/22 10:15,30690,8.208333333,0.331081081,4410,17790,7350,3,None,6/6/22 1:40,6/6/22 10:15,0,My Friends,3,3,5,Happiness,Personal,3878
+egl,6/7/22,Tuesday,6/7/22 2:08,6/7/22 9:33,26730,6.775,0.25462963,2640,16800,4950,3,None,6/7/22 2:00,6/7/22 9:30,0,"My Family,My Friends",3,3,4,Neutral,Work,5354
+egl,6/10/22,Friday,6/10/22 0:52,6/10/22 7:55,25380,6.258333333,0.207395498,3600,15060,3870,3,None,6/10/22 1:00,6/10/22 8:00,1,My Friends,3,3,4,Neutral,Work,5770
+egl,6/11/22,Saturday,6/11/22 3:14,6/11/22 10:34,26430,6.833333333,0.259600614,4710,14820,5070,3,Once,6/11/22 3:15,6/11/22 10:30,1,My Friends,3,3,4,Neutral,Work,5151
+egl,6/12/22,Saturday,6/11/22 23:59,6/12/22 10:09,36630,9.441666667,0.380024361,4200,20430,9360,4,None,6/11/22 23:50,6/12/22 10:00,1,"My Family,My Friends,My colleagues/classsmates/students",3,3,4,Neutral,Personal,4117
+egl,6/13/22,Monday,6/13/22 2:13,6/13/22 9:23,25800,6.075,0.197044335,3420,14850,3600,3,None,6/13/22 2:10,6/13/22 9:20,0,My Friends,3,3,4,Neutral,Personal,7132
+egl,6/14/22,Monday,6/13/22 22:31,6/14/22 9:22,39090,9.75,0.193877551,4860,24540,5700,3,None,6/13/22 22:30,6/14/22 9:22,0,My Friends,3,3,4,Neutral,Personal,4499
+egl,6/15/22,Wednesday,6/15/22 1:21,6/15/22 9:06,27930,7.016666667,0.216763006,3990,16770,4500,3,None,6/15/22 1:20,6/15/22 9:00,1,My Friends,4,4,5,Neutral,Work,8967
+egl,6/16/22,Thursday,6/16/22 1:00,6/16/22 8:05,25500,6.3,0.303448276,3120,14280,5280,2,None,6/16/22 1:00,6/16/22 8:00,1,My Friends,3,3,4,Neutral,Work,8945
+egl,6/17/22,Friday,6/17/22 1:22,6/17/22 8:46,26640,6.933333333,0.195402299,2400,18480,4080,3,None,6/17/22 1:20,6/17/22 8:45,1,My Friends,3,3,3,Neutral,"Work,Personal",12494
+egl,6/18/22,Saturday,6/18/22 1:37,6/18/22 9:34,28650,7.633333333,0.34904271,2100,18270,7110,3,None,6/18/22 1:35,6/18/22 9:30,2,My Friends,3,2,4,Neutral,Work,4691
+egl,6/19/22,Sunday,6/19/22 1:05,6/19/22 9:56,31860,8.7,0.300124533,5490,18600,7230,4,None,6/19/22 1:00,6/19/22 9:50,0,My Friends,4,3,4,Neutral,Personal,3520
+egl,6/22/22,Wednesday,6/22/22 2:15,6/22/22 9:15,25230,6.508333333,0.337328767,2070,15450,5910,2,None,6/22/22 2:00,6/22/22 9:00,1,My Friends,4,3,4,Neutral,Personal,7796
+egl,6/23/22,Thursday,6/23/22 0:15,6/23/22 9:34,33540,8.675,0.286773795,6240,18030,6960,4,None,6/23/22 0:15,6/23/22 9:30,1,My Friends,2,3,3,Neutral,Personal,3424
+egl,6/24/22,Friday,6/24/22 1:27,6/24/22 9:33,29160,7.233333333,0.267153285,3120,17430,5490,3,None,6/24/22 1:20,6/24/22 9:30,0,My Friends,3,3,4,Neutral,Sleep,12402
+h9u,5/7/22,Saturday,5/7/22 0:50,5/7/22 12:26,41790,10.55,0.383606557,5400,22050,10530,3,Twice,5/7/22 2:00,5/7/22 9:00,2,"My Family,My Friends,My colleagues/classsmates/students,New people",1,4,4,"Stressed,Other","Work,Sleep",6735
+h9u,5/8/22,Sunday,5/8/22 1:33,5/8/22 11:39,36360,9.608333333,0.382494005,5430,19590,9570,3,None,5/8/22 2:00,5/8/22 8:00,1,"My Friends,My colleagues/classsmates/students",1,3,3,"Stressed,Other","Work,Personal",3916
+h9u,5/9/22,Monday,5/9/22 4:30,5/9/22 10:55,23100,5.816666667,0.231040564,4710,12300,3930,1,None,5/9/22 3:30,5/9/22 9:00,0,New people,1,2,4,"Stressed,Other",Work,5694
+h9u,5/10/22,Tuesday,5/10/22 1:19,5/10/22 8:24,25470,6.716666667,0.265306122,4860,14250,5070,1,Once,5/10/22 1:30,5/10/22 8:25,1,New people,1,2,3,"Stressed,Frustrated","Work,Personal,Yesterday's feelings",7975
+h9u,5/11/22,Wednesday,5/11/22 0:13,5/11/22 9:00,31650,8.333333333,0.267427123,5190,18480,6330,3,Once,5/11/22 1:30,5/11/22 9:00,1,New people,1,5,6,"Happiness,Stressed,Other","Work,Personal",10233
+h9u,5/12/22,Thursday,5/12/22 1:15,5/12/22 11:21,36390,9.541666667,0.415327565,7110,17160,10080,3,Three or more times,5/12/22 1:30,5/12/22 7:15,1,"My Friends,My colleagues/classsmates/students",1,3,,"Stressed,Other","Work,Sleep,Personal",15826
+h9u,5/13/22,Thursday,5/12/22 23:23,5/13/22 11:29,43590,11.25,0.248843663,7050,25380,8070,3,Twice,5/13/22 1:00,5/13/22 8:45,1,"My colleagues/classsmates/students,New people",2,2,5,Stressed,"Work,Sleep,Personal",11985
+h9u,5/14/22,Saturday,5/14/22 1:28,5/14/22 9:42,29670,7.983333333,0.287634409,4740,17580,6420,4,Twice,5/14/22 1:00,5/14/22 10:00,1,"My Friends,My colleagues/classsmates/students,New people",1,3,,"Stressed,Other","Work,Personal,Yesterday's feelings",7786
+h9u,5/15/22,Sunday,5/15/22 2:32,5/15/22 12:12,34800,9.2,0.25170068,5400,21060,6660,3,None,5/15/22 1:30,5/15/22 10:30,1,"My Friends,My colleagues/classsmates/students,New people",2,2,,"Neutral,Stressed","Work,Personal,Yesterday's feelings",2386
+h9u,5/16/22,Monday,5/16/22 1:44,5/16/22 8:48,25440,6.775,0.264385692,4110,15180,5100,2,None,5/16/22 1:50,5/16/22 8:45,0,Nobody,2,3,3,"Stressed,Frustrated","Work,Personal",3230
+h9u,5/17/22,Tuesday,5/17/22 0:48,5/17/22 9:17,30570,8.041666667,0.238767651,6330,17040,5580,3,Twice,5/17/22 0:00,5/17/22 9:00,0,Nobody,1,2,3,"Fear,Stressed,Frustrated","Work,Personal",8216
+h9u,5/18/22,Wednesday,5/18/22 1:15,5/18/22 5:59,17010,4.533333333,0.405684755,3930,7680,4710,1,Three or more times,5/18/22 1:20,5/18/22 6:00,1,"My Family,My colleagues/classsmates/students,New people",2,3,,"Neutral,Stressed,Frustrated,Other","Work,Personal",4954
+h9u,5/19/22,Thursday,5/19/22 0:22,5/19/22 9:53,34260,9.166666667,0.390644753,6270,17460,9270,2,Three or more times,5/19/22 0:00,5/19/22 9:00,0,"My Family,New people",2,3,,"Excited,Stressed,Other","Work,Sleep,Personal,Yesterday's feelings",9077
+h9u,5/20/22,Friday,5/20/22 0:21,5/20/22 9:24,32580,8.3,0.338709677,4860,17460,7560,2,None,5/20/22 0:00,5/20/22 8:50,1,"My Friends,My colleagues/classsmates/students,New people",3,3,5,"Neutral,Happiness",Personal,17834
+h9u,5/21/22,Saturday,5/21/22 5:16,5/21/22 12:05,24510,6.225,0.23880597,5550,12540,4320,1,Twice,5/21/22 4:00,5/21/22 13:00,3,"My Friends,New people",4,4,6,"Happiness,Excited",Personal,13358
+h9u,5/22/22,Sunday,5/22/22 2:36,5/22/22 7:50,18870,5.033333333,0.196039604,4530,10620,2970,1,Twice,5/22/22 2:30,5/22/22 8:00,3,"My Friends,New people",4,4,6,Happiness,Personal,15389
+h9u,5/23/22,Monday,5/23/22 0:55,5/23/22 11:59,39840,10.125,0.306451613,4440,23460,8550,5,Three or more times,5/23/22 0:55,5/23/22 8:45,3,"My Friends,New people",2,3,5,"Stressed,Other","Work,Sleep,Personal",6034
+h9u,5/24/22,Tuesday,5/24/22 2:37,5/24/22 11:10,30810,8.183333333,0.337874659,5820,16200,7440,5,None,5/24/22 2:00,5/24/22 11:00,0,My Friends,4,3,5,"Neutral,Happiness","Sleep,Personal",3968
+h9u,5/25/22,Wednesday,5/25/22 1:28,5/25/22 12:03,38130,9.741666667,0.317925592,6390,20220,8460,4,None,5/25/22 1:00,5/25/22 11:30,0,Nobody,4,1,5,Happiness,"Sleep,Personal",6764
+h9u,5/26/22,Thursday,5/26/22 0:48,5/26/22 12:09,40890,10.35833333,0.217433888,4110,26520,6660,3,None,5/26/22 1:00,5/26/22 11:30,1,Nobody,3,1,5,Neutral,"Sleep,Personal",4647
+h9u,5/27/22,Friday,5/27/22 0:09,5/27/22 2:57,10080,2.75,,0,0,0,1,None,5/27/22 0:00,5/27/22 3:00,1,Nobody,3,1,,Neutral,"Sleep,Personal",4677
+h9u,5/28/22,Saturday,5/28/22 1:58,5/28/22 6:59,18060,4.933333333,0.275862069,3480,10440,3840,1,Once,5/28/22 2:00,5/28/22 7:00,0,Nobody,2,3,3,"Fear,Other","Health,Sleep,Personal",18103
+h9u,5/29/22,Sunday,5/29/22 1:59,5/29/22 7:59,21600,5.85,0.392857143,4500,10620,5940,1,Twice,5/29/22 1:00,5/29/22 8:00,2,"My Family,My Friends,My colleagues/classsmates/students,New people",3,4,6,Happiness,Personal,12684
+h9u,5/30/22,Monday,5/30/22 1:34,5/30/22 9:32,28680,7.466666667,0.274537696,2520,18570,5790,2,Once,5/30/22 1:30,5/30/22 9:30,3,"My Family,My Friends,My colleagues/classsmates/students,New people",2,2,5,"Stressed,Other","Work,Health,Sleep,Personal,Yesterday's feelings",13368
+h9u,5/31/22,Tuesday,5/31/22 0:22,5/31/22 10:58,38190,10,0.438848921,7770,17250,10980,3,Three or more times,5/31/22 0:30,5/31/22 11:00,3,"My Friends,My colleagues/classsmates/students,New people",2,2,5,"Happiness,Sadness,Stressed","Work,Personal,Yesterday's feelings",5553
+h9u,6/1/22,Wednesday,6/1/22 0:26,6/1/22 8:53,30450,7.591666667,0.329927007,5520,15030,6780,1,None,5/31/22 23:40,6/1/22 9:00,1,My Friends,2,3,3,"Stressed,Other","Work,Health,Personal",5908
+h9u,6/2/22,Thursday,6/2/22 1:17,6/2/22 9:35,29910,7.558333333,0.28470255,6060,15120,6030,1,None,6/2/22 1:00,6/2/22 9:30,0,New people,1,3,2,"Fear,Stressed,Frustrated,Other","Work,Health",2447
+h9u,6/3/22,Friday,6/3/22 1:14,6/3/22 11:14,36030,9.191666667,0.387421384,4590,19260,9240,1,None,6/3/22 0:00,6/3/22 11:00,0,Nobody,2,2,1,"Fear,Stressed","Work,Health",2697
+h9u,6/4/22,Saturday,6/4/22 0:50,6/4/22 12:15,41130,9.491666667,0.175438596,5370,23700,5100,1,Once,6/4/22 1:00,6/4/22 11:30,0,Nobody,2,2,1,"Stressed,Frustrated","Work,Health",2941
+h9u,6/5/22,Sunday,6/5/22 1:41,6/5/22 11:26,35130,8.583333333,0.302149178,5760,17970,7170,1,Once,6/5/22 0:00,6/5/22 10:30,0,Nobody,2,2,2,"Stressed,Frustrated","Work,Health,Sleep",2854
+h9u,6/6/22,Monday,6/6/22 0:56,6/6/22 9:44,31680,8,0.344537815,4110,17310,7380,3,None,6/6/22 1:00,6/6/22 9:30,0,Nobody,2,2,2,"Stressed,Frustrated","Work,Health,Sleep",1889
+h9u,6/7/22,Monday,6/6/22 23:50,6/7/22 11:01,40260,10.4,0.3,5460,23340,8640,3,None,6/7/22 1:00,6/7/22 11:00,0,Nobody,2,2,3,"Stressed,Frustrated","Work,Health",2481
+h9u,6/8/22,Tuesday,6/7/22 23:16,6/8/22 9:25,36510,9.241666667,0.244668911,7140,19590,6540,3,None,6/8/22 0:00,6/8/22 9:30,0,Nobody,2,2,3,"Stressed,Frustrated","Work,Health",620
+h9u,6/9/22,Thursday,6/9/22 2:36,6/9/22 10:05,26970,7.025,0.241531664,2550,17820,4920,4,None,6/9/22 2:30,6/9/22 10:00,0,Nobody,2,4,,"Stressed,Frustrated","Work,Health",6957
+h9u,6/10/22,Friday,6/10/22 1:50,6/10/22 10:23,30780,8.175,0.425872093,6150,14490,8790,4,None,6/10/22 1:00,6/10/22 10:30,1,Nobody,2,3,5,"Neutral,Excited",Personal,2431
+h9u,6/11/22,Saturday,6/11/22 1:37,6/11/22 11:00,33750,8.816666667,0.475592748,7470,14040,10230,3,None,6/11/22 1:30,6/11/22 10:30,1,Nobody,2,1,5,"Happiness,Stressed","Work,Sleep,Personal",4260
+h9u,6/12/22,Sunday,6/12/22 1:16,6/12/22 10:45,34140,9.066666667,0.412987013,8190,14910,9540,2,None,6/12/22 1:00,6/12/22 10:40,0,My Friends,2,2,,"Neutral,Stressed",Work,6082
+h9u,6/13/22,Monday,6/13/22 1:36,6/13/22 10:27,31860,8.475,0.315653299,5790,17400,7320,2,None,6/13/22 1:30,6/13/22 10:30,0,Nobody,2,1,5,"Happiness,Stressed","Work,Personal",2968
+h9u,6/14/22,Tuesday,6/14/22 1:09,6/14/22 10:26,33390,8.725,0.283088235,5400,19080,6930,3,None,6/14/22 1:35,6/14/22 10:20,0,My Friends,2,3,4,Stressed,Work,1676
+h9u,6/15/22,Wednesday,6/15/22 2:50,6/15/22 10:22,27150,7.141666667,0.341158059,4590,14580,6540,4,None,6/15/22 1:30,6/15/22 10:00,1,New people,2,2,4,"Neutral,Stressed","Work,Personal",5226
+h9u,6/16/22,Thursday,6/16/22 3:09,6/16/22 10:35,26760,7.025,0.3171875,5100,14100,6090,1,None,6/16/22 3:00,6/16/22 10:17,0,"My Friends,My colleagues/classsmates/students,New people",1,3,,"Stressed,Frustrated","Work,Personal",8543
+h9u,6/17/22,Friday,6/17/22 1:33,6/17/22 10:20,31650,8.716666667,0.272506083,4950,19710,6720,4,None,6/17/22 1:30,6/17/22 10:23,1,"My Family,New people",2,2,,Stressed,"Work,Sleep,Personal",5117
+h9u,6/18/22,Saturday,6/18/22 1:50,6/18/22 10:32,31290,8.608333333,0.331185567,7080,16200,7710,4,None,6/18/22 1:15,6/18/22 10:30,0,"My Friends,New people",2,3,5,"Happiness,Stressed","Work,Personal",7769
+h9u,6/19/22,Sunday,6/19/22 1:15,6/19/22 10:34,33570,9.15,0.433420366,7830,15150,9960,4,None,6/19/22 1:00,6/19/22 10:00,1,"My Friends,New people",3,3,,Neutral,Personal,7178
+h9u,6/20/22,Sunday,6/19/22 23:47,6/20/22 10:13,37590,9.775,0.427007299,8250,16410,10530,3,None,6/19/22 23:50,6/20/22 10:20,1,"My Friends,New people",3,3,,Neutral,"Sleep,Personal",1109
+h9u,6/21/22,Tuesday,6/21/22 0:53,6/21/22 9:13,30030,8.116666667,0.231352718,4830,18900,5490,3,Once,6/21/22 1:00,6/21/22 9:15,1,Nobody,2,2,,"Stressed,Frustrated",Work,908
+h9u,6/22/22,Wednesday,6/22/22 0:46,6/22/22 5:22,16560,4.5,0.333333333,3630,8520,4050,1,None,6/22/22 0:00,6/22/22 9:30,0,Nobody,2,4,,"Neutral,Stressed",Work,4572
+h9u,6/23/22,Thursday,6/23/22 1:44,6/23/22 10:16,30720,8.233333333,0.397454031,6750,14460,8430,3,None,6/23/22 1:30,6/23/22 10:00,0,"My Family,My colleagues/classsmates/students",2,4,5,Stressed,"Work,Personal",5909
+h9u,6/24/22,Friday,6/24/22 0:27,6/24/22 10:01,34440,8.55,0.271375465,7140,17070,6570,4,None,6/24/22 1:30,6/24/22 10:00,1,My Family,2,2,,"Neutral,Stressed","Work,Personal",4739
+h9u,6/25/22,Saturday,6/25/22 2:11,6/25/22 9:39,26880,7.375,0.441368078,5010,13410,8130,3,Once,6/25/22 1:50,6/25/22 9:30,0,New people,2,5,4,"Excited,Stressed",Work,5711
+h9u,6/26/22,Sunday,6/26/22 3:42,6/26/22 9:57,22530,6.175,0.496969697,5160,9690,7380,3,Twice,6/26/22 3:00,6/26/22 9:55,1,My Family,4,5,5,"Happiness,Excited",Personal,5943
+h9u,6/27/22,Monday,6/27/22 1:26,6/27/22 7:28,21720,5.233333333,0.284253579,2370,12300,4170,2,Three or more times,6/27/22 3:00,6/27/22 7:30,1,My Friends,2,4,,"Neutral,Stressed","Work,Sleep,Personal",8185
+h9u,6/28/22,Monday,6/27/22 22:32,6/28/22 7:45,33210,8.5,0.224489796,5610,19380,5610,1,Three or more times,6/27/22 23:00,6/28/22 7:44,1,"My colleagues/classsmates/students,New people",2,5,,Stressed,Work,17123
+h9u,6/29/22,Tuesday,6/28/22 23:54,6/29/22 7:28,27240,7.258333333,0.367346939,4080,15030,7020,2,Three or more times,6/29/22 0:00,6/29/22 7:30,3,"My colleagues/classsmates/students,New people",2,2,3,"Anger,Stressed,Frustrated,Other",Work,10329
+h9u,6/30/22,Thursday,6/30/22 2:56,6/30/22 7:48,17520,4.616666667,0.424164524,4170,7500,4950,2,Three or more times,6/30/22 3:00,6/30/22 7:40,2,"My colleagues/classsmates/students,New people",2,4,,"Neutral,Excited,Stressed,Other","Work,Personal",22022
+h9u,7/1/22,Thursday,6/30/22 23:06,7/1/22 6:54,28080,7.258333333,0.386942675,5880,12960,7290,3,Three or more times,6/30/22 23:00,7/1/22 6:45,2,"My colleagues/classsmates/students,New people",2,2,3,"Stressed,Other","Work,Sleep,Personal",17018
+h9u,7/2/22,Friday,7/1/22 23:30,7/2/22 9:08,34680,8.833333333,0.438263229,6270,15840,9690,3,Three or more times,7/1/22 23:00,7/2/22 9:00,2,"My colleagues/classsmates/students,New people",2,3,,"Neutral,Other","Work,Sleep",14074
+h9u,7/3/22,Sunday,7/3/22 2:59,7/3/22 10:19,26430,6.883333333,0.276661515,5610,13800,5370,4,Twice,7/3/22 1:30,7/3/22 9:40,2,"My colleagues/classsmates/students,New people",2,3,3,Other,"Sleep,Personal",8677
+heh,5/6/22,Thursday,5/5/22 23:07,5/6/22 6:17,25800,6.525,0.179216867,5010,14910,3570,3,None,5/5/22 23:00,5/6/22 6:15,1,"My Family,My Friends,My colleagues/classsmates/students",2,4,4,"Neutral,Sadness,Stressed","Work,Health,Sleep,Personal,Yesterday's feelings",
+heh,5/7/22,Friday,5/6/22 23:47,5/7/22 8:48,32460,8.416666667,0.268844221,4500,19380,6420,4,None,5/6/22 23:30,5/7/22 8:30,2,"My Family,My Friends,My colleagues/classsmates/students,New people",3,3,5,"Neutral,Stressed","Work,Health,Sleep,Personal,Yesterday's feelings",7367
+heh,5/8/22,Sunday,5/8/22 0:47,5/8/22 8:45,28710,7.625,0.286919831,7950,13380,6120,3,None,5/8/22 0:15,5/8/22 9:00,1,"My Family,My Friends,My colleagues/classsmates/students,New people",2,4,6,"Happiness,Excited,Stressed","Work,Health,Sleep,Personal,Yesterday's feelings",11498
+heh,5/9/22,Sunday,5/8/22 22:57,5/9/22 6:09,25920,6.766666667,0.260869565,5580,13740,5040,2,None,5/8/22 23:00,5/9/22 6:15,0,"My Family,My Friends",1,2,2,"Sadness,Stressed,Frustrated","Work,Yesterday's feelings",9660
+heh,5/10/22,Monday,5/9/22 23:10,5/10/22 6:24,26070,7.058333333,0.319314642,5850,13410,6150,4,Once,5/9/22 23:00,5/10/22 6:30,1,"My Family,My Friends,My colleagues/classsmates/students,New people",1,1,1,"Sadness,Fear,Anger,Contempt,Stressed,Frustrated","Sleep,Personal,Yesterday's feelings",8155
+heh,5/11/22,Tuesday,5/10/22 23:12,5/11/22 8:29,33420,8.158333333,0.205665025,7680,16680,5010,2,None,5/10/22 23:30,5/11/22 8:30,1,"My Family,My Friends,My colleagues/classsmates/students",4,4,5,Neutral,"Sleep,Personal,Yesterday's feelings",11486
+heh,5/12/22,Wednesday,5/11/22 22:46,5/12/22 5:54,25680,6.55,0.297029703,5700,12480,5400,2,None,5/11/22 23:00,5/12/22 5:40,1,"My Family,My Friends,My colleagues/classsmates/students,New people",1,2,2,"Fear,Contempt,Stressed,Frustrated","Work,Health,Sleep,Personal,Yesterday's feelings",10025
+heh,5/13/22,Thursday,5/12/22 22:25,5/13/22 8:02,34620,9.175,0.420645161,5310,17940,9780,2,None,5/12/22 22:45,5/13/22 8:00,1,"My Family,My Friends,My colleagues/classsmates/students",2,4,3,"Fear,Stressed,Frustrated","Work,Sleep,Yesterday's feelings",10849
+heh,5/14/22,Friday,5/13/22 22:42,5/14/22 5:45,25380,6.158333333,0.178628389,5820,12990,3360,3,Twice,5/13/22 22:45,5/14/22 5:40,1,"My Family,My Friends,My colleagues/classsmates/students",1,2,2,"Sadness,Fear,Stressed,Frustrated","Work,Sleep,Yesterday's feelings",6829
+heh,5/15/22,Sunday,5/15/22 0:06,5/15/22 6:02,21390,5.266666667,0.128571429,4080,12720,2160,2,Once,5/14/22 22:45,5/15/22 7:00,0,"My Family,My Friends",2,3,4,"Sadness,Stressed,Frustrated","Work,Sleep,Yesterday's feelings",9209
+heh,5/16/22,Sunday,5/15/22 23:21,5/16/22 8:32,33060,8.5,0.254612546,6600,17790,6210,4,Once,5/15/22 23:30,5/16/22 8:00,1,"My Family,My Friends,My colleagues/classsmates/students,New people",2,3,3,"Fear,Anger,Stressed,Frustrated","Work,Yesterday's feelings",8991
+heh,5/17/22,Monday,5/16/22 22:50,5/17/22 6:04,26040,6.791666667,0.207407407,3210,17040,4200,4,None,5/16/22 23:00,5/17/22 5:50,1,"My Family,My Friends",4,4,6,"Neutral,Fear,Stressed",Work,6981
+heh,5/18/22,Tuesday,5/17/22 23:03,5/18/22 7:35,30750,7.9,0.31120332,5730,15960,6750,3,None,5/17/22 23:15,5/18/22 7:30,1,"My Family,My colleagues/classsmates/students",2,3,5,"Neutral,Stressed",Work,14986
+heh,5/19/22,Thursday,5/19/22 0:09,5/19/22 6:37,23310,6.191666667,0.21009772,3870,14550,3870,3,None,5/18/22 22:45,5/19/22 6:45,2,"My Family,My Friends",4,4,5,"Neutral,Excited,Stressed","Work,Sleep,Personal,Yesterday's feelings",10117
+heh,5/20/22,Thursday,5/19/22 22:29,5/20/22 5:51,26520,6.741666667,0.332784185,4080,14130,6060,3,None,5/19/22 22:30,5/20/22 5:45,1,"My Family,My Friends,My colleagues/classsmates/students",4,3,4,"Neutral,Sadness,Stressed","Work,Personal,Yesterday's feelings",9194
+heh,5/21/22,Friday,5/20/22 23:34,5/21/22 8:15,31260,7.766666667,0.216710183,5550,17430,4980,3,None,5/20/22 23:30,5/21/22 8:00,1,"My Family,My Friends,My colleagues/classsmates/students",2,4,3,"Fear,Stressed,Frustrated","Work,Sleep,Personal",11943
+heh,5/22/22,Saturday,5/21/22 23:19,5/22/22 7:05,27960,7.375,0.318926975,6150,13980,6420,2,Twice,5/21/22 23:00,5/22/22 7:00,1,"My Family,My Friends,My colleagues/classsmates/students,New people",2,2,3,"Sadness,Fear,Stressed,Frustrated","Work,Health,Sleep,Personal,Yesterday's feelings",8145
+heh,5/23/22,Sunday,5/22/22 22:23,5/23/22 5:30,25620,6.533333333,0.202453988,5820,13740,3960,2,None,5/22/22 22:30,5/23/22 5:15,0,"My Family,My Friends,My colleagues/classsmates/students,New people",1,3,1,"Sadness,Fear,Stressed",Work,6257
+heh,5/24/22,Monday,5/23/22 22:41,5/24/22 8:10,34140,8.566666667,0.2675709,4650,19680,6510,2,Once,5/23/22 22:45,5/24/22 8:15,1,My Family,1,3,1,"Sadness,Fear,Anger,Contempt,Stressed,Frustrated","Work,Health,Sleep,Personal,Yesterday's feelings",10652
+heh,5/25/22,Tuesday,5/24/22 22:27,5/25/22 6:15,28110,7.225,0.242120344,5700,15240,5070,2,None,5/24/22 22:30,5/25/22 6:15,1,"My Family,My Friends,My colleagues/classsmates/students",1,2,1,"Sadness,Fear,Contempt,Stressed,Frustrated","Work,Yesterday's feelings",15763
+heh,5/26/22,Wednesday,5/25/22 23:25,5/26/22 6:18,24810,6.308333333,0.240983607,5520,12780,4410,3,None,5/25/22 23:30,5/26/22 6:15,1,"My Family,My Friends,My colleagues/classsmates/students,New people",1,3,2,"Fear,Stressed","Work,Sleep",17186
+heh,5/27/22,Thursday,5/26/22 22:25,5/27/22 6:16,28260,7.458333333,0.237897649,5040,16650,5160,3,Once,5/26/22 22:30,5/27/22 6:15,1,"My Family,My Friends,My colleagues/classsmates/students,New people",5,4,6,"Happiness,Sadness","Work,Sleep,Yesterday's feelings",13520
+heh,5/28/22,Friday,5/27/22 22:54,5/28/22 5:40,24330,6.425,0.401818182,4920,11580,6630,3,None,5/27/22 22:30,5/28/22 5:40,1,"My Family,My Friends,My colleagues/classsmates/students,New people",4,2,4,Neutral,"Work,Personal,Yesterday's feelings",11637
+heh,5/29/22,Saturday,5/28/22 20:45,5/29/22 8:13,41280,10.575,0.46366782,8670,17340,12060,2,None,5/28/22 21:00,5/29/22 8:00,1,"My Family,My Friends,My colleagues/classsmates/students",5,3,4,"Neutral,Happiness,Sadness","Work,Health,Sleep,Personal",15021
+heh,5/30/22,Sunday,5/29/22 23:01,5/30/22 7:04,28980,7.016666667,0.232796486,4950,15540,4770,4,None,5/29/22 22:30,5/30/22 8:00,1,"My Family,My Friends,My colleagues/classsmates/students,New people",3,3,4,"Sadness,Fear,Stressed","Work,Health,Sleep,Personal,Yesterday's feelings",7797
+heh,5/31/22,Monday,5/30/22 22:28,5/31/22 6:04,27330,7.025,0.219971056,5640,15090,4560,4,Once,5/30/22 22:45,5/31/22 6:10,0,"My Family,My Friends,New people",2,4,3,"Sadness,Fear,Stressed,Frustrated",Personal,11380
+heh,6/1/22,Tuesday,5/31/22 22:38,6/1/22 6:13,27270,6.983333333,0.277439024,5670,14010,5460,3,Twice,5/31/22 22:45,6/1/22 6:15,1,"My Family,My Friends,New people",3,4,5,"Neutral,Excited,Fear","Work,Personal",14247
+heh,6/2/22,Wednesday,6/1/22 22:48,6/2/22 6:13,26730,7.033333333,0.302469136,5220,14220,5880,2,Once,6/1/22 23:00,6/2/22 6:15,1,"My Family,My Friends,My colleagues/classsmates/students",2,4,2,"Fear,Stressed","Work,Personal,Yesterday's feelings",13040
+heh,6/3/22,Thursday,6/2/22 21:38,6/3/22 5:39,28830,7.516666667,0.288571429,8640,12360,6060,3,Three or more times,6/2/22 22:45,6/3/22 5:40,1,"My Family,My Friends,My colleagues/classsmates/students,New people",1,2,2,"Sadness,Fear,Stressed,Frustrated,Other","Work,Health,Sleep,Personal,Yesterday's feelings",8089
+heh,6/4/22,Friday,6/3/22 23:07,6/4/22 7:38,30660,7.608333333,0.22386059,6240,16140,5010,2,Once,6/3/22 23:15,6/4/22 7:45,1,"My Family,My Friends,My colleagues/classsmates/students",4,4,3,"Stressed,Frustrated,Other","Work,Sleep,Personal,Yesterday's feelings",10482
+heh,6/5/22,Saturday,6/4/22 22:56,6/5/22 6:47,28230,6.816666667,0.243161094,5190,14550,4800,2,None,6/4/22 23:00,6/5/22 7:30,1,"My Family,My Friends,My colleagues/classsmates/students",2,2,1,"Sadness,Fear,Stressed,Frustrated","Work,Yesterday's feelings",6873
+heh,6/6/22,Sunday,6/5/22 23:00,6/6/22 7:07,29250,7.541666667,0.267507003,7290,14130,5730,2,Three or more times,6/5/22 23:00,6/6/22 8:00,1,My Family,5,5,4,Neutral,"Work,Sleep,Personal,Yesterday's feelings",13226
+heh,6/7/22,Monday,6/6/22 22:51,6/7/22 6:14,26550,6.875,0.251896813,7080,12690,4980,2,Twice,6/6/22 23:00,6/7/22 6:15,0,"My Family,My Friends,New people",3,2,2,"Fear,Stressed,Frustrated,Other","Work,Sleep,Yesterday's feelings",10933
+heh,6/8/22,Tuesday,6/7/22 22:52,6/8/22 5:55,25350,6.466666667,0.220125786,5400,13680,4200,3,Twice,6/7/22 22:45,6/8/22 5:45,1,"My Family,My colleagues/classsmates/students,New people",1,2,2,"Sadness,Fear,Stressed,Other","Work,Health,Sleep,Personal,Yesterday's feelings",14148
+heh,6/9/22,Wednesday,6/8/22 22:38,6/9/22 5:56,26250,6.75,0.289808917,6060,12780,5460,3,Three or more times,6/8/22 22:45,6/9/22 5:45,1,"My Family,My Friends,My colleagues/classsmates/students,New people",4,4,3,"Happiness,Sadness,Fear,Stressed","Work,Health,Personal,Yesterday's feelings",13280
+heh,6/10/22,Thursday,6/9/22 22:23,6/10/22 5:30,25650,6.716666667,0.314845024,7470,10920,5790,3,Three or more times,6/9/22 22:45,6/10/22 5:30,2,"My Family,My Friends,New people",4,4,5,"Neutral,Excited,Stressed","Work,Sleep,Personal,Yesterday's feelings",11648
+heh,6/11/22,Friday,6/10/22 22:49,6/11/22 7:41,31950,8.316666667,0.363387978,6990,14970,7980,2,Twice,6/10/22 22:45,6/11/22 7:45,2,"My Family,My Friends,My colleagues/classsmates/students,New people",4,4,5,"Neutral,Fear,Stressed","Work,Health,Sleep,Personal,Yesterday's feelings",16917
+heh,6/12/22,Saturday,6/11/22 22:49,6/12/22 8:11,33690,8.058333333,0.333793103,6150,15600,7260,2,Twice,6/11/22 22:45,6/12/22 8:30,1,"My Family,My Friends,My colleagues/classsmates/students,New people",2,2,2,"Sadness,Fear,Stressed,Frustrated","Work,Health,Sleep,Personal,Yesterday's feelings",16550
+heh,6/13/22,Sunday,6/12/22 22:59,6/13/22 7:19,29970,6.983333333,0.170391061,5790,15690,3660,2,None,6/12/22 23:00,6/13/22 8:00,3,"My Family,My Friends,My colleagues/classsmates/students,New people",1,2,2,"Sadness,Fear,Anger,Contempt,Stressed,Frustrated","Work,Health,Sleep,Personal,Yesterday's feelings",8377
+heh,6/14/22,Monday,6/13/22 22:50,6/14/22 5:47,24990,6.516666667,0.247208931,3840,14970,4650,2,Once,6/13/22 23:00,6/14/22 5:45,1,My Family,3,4,3,"Sadness,Fear,Other","Work,Sleep,Personal",6698
+heh,6/15/22,Tuesday,6/14/22 22:33,6/15/22 8:02,34170,9,0.196013289,7920,19170,5310,2,Twice,6/14/22 23:00,6/15/22 8:00,1,"My Family,My colleagues/classsmates/students",3,4,2,"Sadness,Stressed,Frustrated","Work,Health,Sleep",10569
+heh,6/16/22,Wednesday,6/15/22 22:46,6/16/22 5:39,24780,6.35,0.205696203,2580,16380,3900,3,Twice,6/15/22 22:45,6/16/22 5:40,1,"My Family,My colleagues/classsmates/students,New people",2,4,1,"Sadness,Fear,Stressed,Other","Work,Health,Sleep,Personal,Yesterday's feelings",10847
+heh,6/17/22,Thursday,6/16/22 22:43,6/17/22 6:28,27900,7.125,0.315384615,7080,12420,6150,3,Once,6/16/22 22:45,6/17/22 6:30,1,"My Family,My Friends,My colleagues/classsmates/students",4,5,4,"Happiness,Excited,Fear,Stressed","Work,Health,Sleep,Personal",10822
+heh,6/18/22,Friday,6/17/22 22:51,6/18/22 8:05,33240,8.641666667,0.324393359,7290,16200,7620,4,Twice,6/17/22 23:00,6/18/22 8:15,1,"My Family,My Friends,My colleagues/classsmates/students",4,4,4,"Neutral,Excited","Work,Health,Personal,Yesterday's feelings",11560
+heh,6/19/22,Saturday,6/18/22 22:39,6/19/22 8:40,36060,9.191666667,0.285547786,6450,19290,7350,4,Twice,6/18/22 23:00,6/19/22 8:45,2,"My Family,My Friends,New people",5,4,5,"Neutral,Happiness,Excited,Stressed","Work,Health,Personal,Yesterday's feelings",8423
+heh,6/20/22,Sunday,6/19/22 22:52,6/20/22 7:58,32760,8.691666667,0.185227273,5340,21060,4890,4,Once,6/19/22 23:00,6/20/22 8:00,1,"My Family,My Friends,New people",2,4,3,"Fear,Anger,Contempt,Stressed","Personal,Yesterday's feelings",11209
+heh,6/21/22,Monday,6/20/22 23:09,6/21/22 5:46,23820,6.366666667,0.312714777,5220,12240,5460,3,Twice,6/20/22 23:00,6/21/22 5:45,2,My Family,4,4,5,Neutral,Sleep,16639
+heh,6/22/22,Tuesday,6/21/22 23:22,6/22/22 5:48,23160,5.941666667,0.381782946,4890,10590,5910,3,Once,6/21/22 23:15,6/22/22 5:45,1,"My Family,My Friends,My colleagues/classsmates/students",2,4,3,"Neutral,Sadness,Fear,Anger,Contempt,Stressed,Frustrated","Work,Personal,Yesterday's feelings",13490
+heh,6/23/22,Wednesday,6/22/22 22:48,6/23/22 4:27,20370,5.208333333,0.057529611,2310,15420,1020,1,Once,6/22/22 23:00,6/23/22 4:50,1,"My Family,My Friends,My colleagues/classsmates/students",4,4,3,"Anger,Contempt,Frustrated","Personal,Yesterday's feelings",11184
+heh,6/24/22,Thursday,6/23/22 22:48,6/24/22 5:38,24630,6.141666667,0.212171053,4590,13650,3870,2,Once,6/23/22 23:00,6/24/22 5:45,1,"My Family,My Friends,My colleagues/classsmates/students",1,1,1,"Anger,Stressed,Frustrated,Other","Work,Sleep,Personal,Yesterday's feelings",13422
+heh,6/25/22,Friday,6/24/22 23:00,6/25/22 7:39,31140,8.158333333,0.310575636,4980,17430,6960,3,Once,6/24/22 23:00,6/25/22 7:45,2,"My Family,My colleagues/classsmates/students",1,1,1,"Fear,Anger,Contempt,Stressed,Frustrated","Health,Sleep,Personal,Yesterday's feelings",12980
+heh,6/26/22,Saturday,6/25/22 23:50,6/26/22 5:29,20370,5.508333333,0.391578947,4170,10080,5580,2,Once,6/25/22 23:45,6/26/22 5:30,1,My Family,1,1,1,"Sadness,Fear,Anger,Contempt,Stressed,Frustrated","Health,Personal",15998
+heh,6/27/22,Sunday,6/26/22 22:45,6/27/22 7:45,32430,8.158333333,0.348484848,6000,15780,7590,3,Twice,6/26/22 23:00,6/27/22 7:45,1,"My Family,My Friends,New people",4,4,5,"Happiness,Excited","Work,Personal,Yesterday's feelings",18136
+lpz,4/30/22,Saturday,4/30/22 6:19,4/30/22 16:33,36870,9.041666667,0.271981243,5310,20280,6960,4,None,4/30/22 5:30,4/30/22 13:00,1,My Family,4,4,6,Neutral,Sleep,3687
+lpz,5/1/22,Sunday,5/1/22 8:41,5/1/22 19:00,37170,9.591666667,0.215417107,4200,24210,6120,4,None,5/1/22 7:00,5/1/22 12:57,2,My colleagues/classsmates/students,3,3,5,Neutral,"Work,Sleep",12332
+lpz,5/2/22,Monday,5/2/22 8:54,5/2/22 13:51,17820,4.841666667,0.445273632,3090,8970,5370,4,None,5/2/22 9:00,5/2/22 13:45,1,Nobody,3,3,4,Neutral,"Work,Sleep",9054
+lpz,5/6/22,Thursday,5/5/22 17:44,5/6/22 1:02,26280,6.691666667,0.30995106,5430,12960,5700,3,None,5/5/22 17:30,5/6/22 1:00,1,My Family,4,3,5,Neutral,Work,5787
+lpz,5/7/22,Saturday,5/7/22 9:10,5/7/22 17:10,28830,7.641666667,0.224299065,3540,18930,5040,3,None,5/7/22 9:00,5/7/22 17:00,1,Nobody,3,3,5,Neutral,"Work,Sleep",15215
+lpz,5/11/22,Tuesday,5/10/22 16:19,5/11/22 3:35,40590,8.933333333,0.226845638,4380,17970,5070,4,None,5/10/22 16:30,5/11/22 0:30,0,Nobody,4,3,5,Neutral,"Work,Sleep",1509
+lpz,5/12/22,Wednesday,5/11/22 20:16,5/12/22 5:59,35010,8.8,0.237983587,6450,19140,6090,5,None,5/11/22 20:30,5/12/22 5:00,1,Nobody,3,3,5,Neutral,Work,7525
+lpz,5/13/22,Thursday,5/12/22 18:11,5/13/22 3:54,34980,7.833333333,0.354304636,5760,12360,6420,3,None,5/12/22 18:30,5/13/22 3:30,1,Nobody,4,3,6,Neutral,Sleep,2187
+lpz,5/14/22,Friday,5/13/22 15:44,5/14/22 1:41,35820,9.308333333,0.317216981,4950,20490,8070,4,None,5/13/22 16:30,5/14/22 1:00,0,Nobody,3,3,5,Neutral,"Work,Sleep",1120
+lpz,5/15/22,Sunday,5/15/22 3:17,5/15/22 9:00,20610,5.325,0.20112782,5280,10680,3210,3,None,5/15/22 3:30,5/15/22 9:00,0,My Family,4,3,6,Neutral,Sleep,6049
+lpz,5/16/22,Monday,5/16/22 1:47,5/16/22 8:32,24330,6.475,0.284297521,3960,14190,5160,4,None,5/16/22 1:00,5/16/22 8:30,1,My Family,4,3,5,Anger,Personal,2541
+lpz,5/17/22,Monday,5/16/22 22:28,5/17/22 5:30,25350,6.65,0.321192053,4410,13710,5820,4,None,5/16/22 22:30,5/17/22 5:30,0,My Family,4,4,5,Neutral,"Work,Sleep",3543
+lpz,5/18/22,Tuesday,5/17/22 23:33,5/18/22 6:23,24600,6.091666667,0.226510067,4140,13740,4050,3,None,5/17/22 23:30,5/18/22 6:30,1,Nobody,3,4,5,Neutral,"Work,Sleep",6626
+lpz,5/19/22,Thursday,5/19/22 0:53,5/19/22 7:48,24900,5.866666667,0.330812854,4980,10890,5250,3,None,5/19/22 0:30,5/19/22 7:30,1,My colleagues/classsmates/students,3,4,5,Neutral,Work,12965
+lpz,5/20/22,Friday,5/20/22 1:27,5/20/22 10:03,30990,7.675,0.315714286,6450,14550,6630,3,None,5/20/22 1:30,5/20/22 10:00,2,My colleagues/classsmates/students,3,4,5,Neutral,Work,10648
+lpz,5/21/22,Saturday,5/21/22 3:29,5/21/22 12:01,30750,8.133333333,0.396280401,6480,14490,8310,4,None,5/21/22 3:30,5/21/22 11:45,1,My Family,4,3,5,"Neutral,Stressed",Work,8218
+lpz,5/22/22,Sunday,5/22/22 4:03,5/22/22 12:02,28740,6.966666667,0.264750378,5100,14730,5250,2,None,5/22/22 4:00,5/22/22 11:30,1,My Family,3,3,4,Neutral,Work,12690
+lpz,5/23/22,Monday,5/23/22 5:56,5/23/22 13:29,27180,7.1,0.285067873,4350,15540,5670,3,None,5/23/22 6:00,5/23/22 13:15,1,My Family,3,3,4,Stressed,"Work,Sleep",3271
+lpz,5/24/22,Tuesday,5/24/22 6:47,5/24/22 13:57,25770,6.466666667,0.295492487,5640,12330,5310,3,None,5/24/22 6:00,5/24/22 14:00,0,My Friends,3,4,4,Neutral,Work,5817
+lpz,5/25/22,Wednesday,5/25/22 5:55,5/25/22 16:06,36690,8.85,0.324189526,6000,18060,7800,3,None,5/25/22 6:00,5/25/22 14:00,1,My colleagues/classsmates/students,2,4,4,Stressed,Work,5836
+lpz,5/28/22,Friday,5/27/22 21:05,5/28/22 12:54,56970,14.86666667,0.237170596,9750,33510,10260,5,None,5/27/22 21:00,5/28/22 12:30,1,My Family,4,4,5,Neutral,"Work,Sleep",4595
+lpz,5/29/22,Sunday,5/29/22 8:49,5/29/22 15:51,25320,6.283333333,0.21221865,2610,16050,3960,3,None,5/29/22 9:00,5/29/22 15:45,1,My colleagues/classsmates/students,5,3,6,Neutral,"Work,Sleep",6296
+lpz,5/30/22,Monday,5/30/22 10:25,5/30/22 17:03,23880,6.341666667,0.294217687,3300,14340,5190,3,None,5/30/22 9:00,5/30/22 15:30,1,My Family,4,3,5,Neutral,Work,9099
+lpz,6/1/22,Tuesday,5/31/22 15:00,6/1/22 0:55,35730,9.291666667,0.252808989,7200,19500,6750,3,None,5/31/22 15:00,6/1/22 1:00,1,My Friends,3,3,4,Stressed,Sleep,9813
+lpz,6/4/22,Saturday,6/4/22 0:41,6/4/22 5:51,18630,4.75,0.146881288,3570,11340,2190,3,None,6/4/22 0:30,6/4/22 5:45,0,Nobody,4,4,4,Neutral,Work,17618
+lpz,6/5/22,Saturday,6/4/22 20:11,6/5/22 6:20,36570,9.391666667,0.237102086,6000,21330,6480,4,None,6/4/22 20:00,6/5/22 6:00,2,"My Friends,My colleagues/classsmates/students",3,3,4,Neutral,"Work,Yesterday's feelings",3537
+lpz,6/6/22,Monday,6/6/22 4:05,6/6/22 8:59,17640,4.408333333,0.090721649,3030,11520,1320,2,Once,6/6/22 4:00,6/6/22 9:00,0,My Friends,2,4,4,Stressed,Work,5428
+lpz,6/7/22,Monday,6/6/22 21:43,6/7/22 6:04,30030,6.483333333,0.295938104,2220,13290,4590,3,None,6/6/22 21:45,6/7/22 4:00,1,My Friends,2,4,4,Stressed,"Work,Sleep",6926
+lpz,6/8/22,Wednesday,6/8/22 1:49,6/8/22 8:57,25710,6.666666667,0.342281879,4440,13440,6120,3,None,6/8/22 1:45,6/8/22 9:00,0,My colleagues/classsmates/students,4,3,5,Happiness,Work,28362
+lpz,6/9/22,Thursday,6/9/22 3:29,6/9/22 9:26,21450,5.5,0.301775148,4170,11040,4590,2,None,6/9/22 3:30,6/9/22 9:00,2,"My Family,My colleagues/classsmates/students",4,4,5,Neutral,Work,5485
+lpz,6/10/22,Friday,6/10/22 1:53,6/10/22 9:01,25710,6.391666667,0.160363086,4260,15570,3180,2,None,6/10/22 2:00,6/10/22 8:45,2,My Family,3,3,4,Neutral,Work,16355
+lpz,6/11/22,Friday,6/10/22 21:15,6/11/22 11:19,50640,12.10833333,0.350371747,9360,22920,11310,2,None,6/10/22 21:15,6/11/22 9:50,2,"My Family,My colleagues/classsmates/students",3,4,4,"Neutral,Stressed",Work,945
+lpz,6/12/22,Sunday,6/12/22 2:52,6/12/22 11:16,30210,7.908333333,0.213554987,3840,19620,5010,3,None,6/12/22 3:00,6/12/22 11:15,0,My colleagues/classsmates/students,2,2,3,Stressed,Work,6566
+lpz,6/13/22,Monday,6/13/22 6:33,6/13/22 16:21,35280,9.066666667,,0,0,0,3,None,6/13/22 6:30,6/13/22 16:00,2,My Family,4,3,5,Neutral,Personal,15189
+lpz,6/14/22,Monday,6/13/22 22:21,6/14/22 0:37,8160,2.266666667,,0,0,0,3,None,6/13/22 20:30,6/14/22 4:00,1,My Friends,4,3,4,Neutral,Yesterday's feelings,12425
+lpz,6/14/22,Tuesday,6/14/22 8:37,6/14/22 16:10,27180,7.066666667,0.292682927,5820,13860,5760,3,None,6/14/22 8:30,6/14/22 16:00,1,My Friends,4,3,4,Neutral,Yesterday's feelings,12425
+lpz,6/15/22,Wednesday,6/15/22 6:48,6/15/22 15:04,29730,7.45,0.392523364,5010,14250,7560,2,None,6/15/22 7:00,6/15/22 15:00,0,Nobody,3,2,4,Neutral,"Work,Sleep",1074
+lpz,6/16/22,Thursday,6/16/22 5:12,6/16/22 12:01,24540,6.283333333,0.332155477,4710,12270,5640,3,None,6/16/22 5:15,6/16/22 11:50,0,My colleagues/classsmates/students,2,2,3,Stressed,Work,942
+lpz,6/17/22,Friday,6/17/22 4:25,6/17/22 8:46,15660,4.341666667,0.378306878,4410,6930,4290,2,None,6/17/22 4:30,6/17/22 8:45,0,Nobody,2,3,4,Stressed,Work,2095
+lpz,6/18/22,Saturday,6/18/22 4:15,6/18/22 12:47,30720,7.85,0.383259912,5820,14610,7830,4,None,6/18/22 4:15,6/18/22 12:45,0,My colleagues/classsmates/students,3,2,4,Neutral,Sleep,9642
+lpz,6/19/22,Sunday,6/19/22 5:15,6/19/22 12:40,26730,6.716666667,0.257410296,5430,13800,4950,3,None,6/19/22 5:15,6/19/22 12:40,1,My Family,2,4,4,Stressed,Work,9631
+lpz,6/20/22,Monday,6/20/22 5:31,6/20/22 13:43,29520,7.016666667,0.258594918,6600,13470,5190,3,None,6/20/22 5:30,6/20/22 13:15,1,My Family,3,3,4,Neutral,"Work,Sleep",12094
+lpz,6/21/22,Tuesday,6/21/22 6:30,6/21/22 15:59,34140,8.616666667,0.355176933,6090,16800,8130,4,None,6/21/22 6:30,6/21/22 16:00,1,Nobody,3,4,4,Neutral,Work,4661
+lpz,6/22/22,Wednesday,6/22/22 6:46,6/22/22 11:15,16170,3.866666667,0.186700767,3390,8340,2190,1,None,6/22/22 6:45,6/22/22 10:50,0,My colleagues/classsmates/students,4,3,4,Neutral,"Work,Sleep",1073
+lpz,6/23/22,Thursday,6/23/22 7:03,6/23/22 15:51,31710,7.583333333,0.174193548,5220,18030,4050,3,None,6/23/22 7:00,6/23/22 15:45,0,Nobody,2,2,3,Stressed,"Work,Sleep",3221
+lpz,6/25/22,Saturday,6/25/22 4:52,6/25/22 13:36,31470,7.775,0.244,6840,15660,5490,3,None,6/25/22 5:15,6/25/22 13:20,1,Nobody,2,2,4,Stressed,Work,16658
+lpz,6/26/22,Sunday,6/26/22 4:25,6/26/22 14:13,35310,7.65,0.209160305,5310,14340,4110,2,None,6/26/22 7:15,6/26/22 14:15,3,My colleagues/classsmates/students,3,3,4,Neutral,Sleep,15468
+lpz,6/27/22,Monday,6/27/22 6:03,6/27/22 10:33,16200,4.091666667,0.113378685,1830,11400,1500,2,None,6/27/22 6:00,6/27/22 10:30,1,"My Family,My colleagues/classsmates/students",3,2,3,Neutral,Sleep,7129
+mr1,5/6/22,Thursday,5/5/22 22:24,5/6/22 6:00,27360,7.391666667,0.36882716,6360,13080,7170,4,None,5/5/22 23:00,5/6/22 5:30,1,My colleagues/classsmates/students,3,3,5,Neutral,"Work,Health,Personal",13085
+mr1,5/7/22,Friday,5/6/22 22:51,5/7/22 7:30,31110,8.533333333,0.322997416,4080,19140,7500,5,Once,5/6/22 23:00,5/7/22 7:30,1,My colleagues/classsmates/students,4,3,5,Neutral,Work,6737
+mr1,5/11/22,Tuesday,5/10/22 22:26,5/11/22 5:50,26670,7.05,0.681908549,4380,10710,10290,4,None,5/10/22 22:30,5/11/22 5:30,1,"My Family,My colleagues/classsmates/students",3,3,,Neutral,"Work,Health,Sleep",10556
+mr1,5/13/22,Thursday,5/12/22 23:18,5/13/22 5:59,24060,6.5,0.335616438,4650,12870,5880,4,None,5/12/22 23:06,5/13/22 5:50,1,"My Family,My colleagues/classsmates/students",3,3,,Neutral,"Work,Health,Sleep,Personal",14642
+mr1,5/14/22,Saturday,5/14/22 0:32,5/14/22 5:59,19620,5.3,0.394736842,2970,10710,5400,3,None,5/14/22 0:17,5/14/22 6:08,1,"My Family,My Friends,My colleagues/classsmates/students",3,3,,Neutral,"Work,Health,Sleep,Personal",6610
+mr1,5/17/22,Monday,5/16/22 23:06,5/17/22 5:38,23520,6.116666667,0.473895582,4110,10830,7080,2,None,5/17/22 0:00,5/17/22 5:20,2,"My Family,My Friends,My colleagues/classsmates/students",3,3,,"Neutral,Stressed","Work,Health,Sleep",14376
+mr1,5/18/22,Tuesday,5/17/22 22:57,5/18/22 6:26,26970,7.058333333,0.423529412,5070,12780,7560,4,None,5/17/22 23:12,5/18/22 5:40,2,"My Family,My Friends,My colleagues/classsmates/students",3,3,,Neutral,"Work,Health,Sleep",15333
+mr1,5/19/22,Wednesday,5/18/22 22:30,5/19/22 5:19,24570,6.7,0.438282648,5190,11580,7350,4,None,5/18/22 22:36,5/19/22 5:20,2,"My Family,My Friends,My colleagues/classsmates/students",3,3,,Neutral,"Work,Health,Sleep,Personal",12853
+mr1,5/22/22,Saturday,5/21/22 23:15,5/22/22 6:33,26310,7.066666667,0.479930192,4260,12930,8250,3,None,5/21/22 23:30,5/22/22 7:01,3,"My Family,My Friends,My colleagues/classsmates/students",3,3,,Neutral,"Work,Health,Sleep,Personal",11629
+mr1,5/23/22,Sunday,5/22/22 22:16,5/23/22 4:57,24060,6.241666667,0.289156627,4170,13260,5040,3,None,5/22/22 23:00,5/23/22 5:00,2,"My Family,My Friends,My colleagues/classsmates/students",3,3,,Neutral,"Work,Health,Sleep",13141
+mr1,5/24/22,Monday,5/23/22 23:56,5/24/22 5:41,20700,5.083333333,0.346578366,3720,9870,4710,2,None,5/24/22 0:05,5/24/22 5:05,2,"My Family,My Friends,My colleagues/classsmates/students",3,3,,Neutral,"Work,Health,Sleep",11521
+mr1,5/27/22,Thursday,5/26/22 22:07,5/27/22 3:41,20040,5.525,0.398734177,5910,8310,5670,4,None,5/26/22 22:02,5/27/22 7:02,1,"My Family,My Friends,My colleagues/classsmates/students",3,3,,Neutral,"Work,Health,Sleep",19528
+mr1,5/28/22,Friday,5/27/22 22:36,5/28/22 6:29,28380,7.433333333,0.351515152,3030,16770,6960,3,None,5/27/22 22:00,5/28/22 6:00,2,"My Family,My Friends,My colleagues/classsmates/students",3,3,,Neutral,"Work,Health,Sleep,Personal",5632
+mr1,5/29/22,Saturday,5/28/22 23:10,5/29/22 6:09,25140,6.5,0.319796954,5310,12420,5670,3,None,5/28/22 23:00,5/29/22 6:00,1,"My Family,My Friends,New people",3,3,,Neutral,"Work,Health,Sleep,Personal",1222
+mr1,5/30/22,Sunday,5/29/22 22:01,5/30/22 5:01,25200,6.991666667,0.191761364,5610,15510,4050,3,None,5/29/22 22:00,5/30/22 5:01,1,"My Family,My Friends,New people",3,3,,Neutral,"Work,Health,Sleep,Personal",8729
+mr1,5/31/22,Monday,5/30/22 22:32,5/31/22 5:48,26160,7.041666667,0.343402226,4410,14460,6480,4,None,5/30/22 22:45,5/31/22 5:30,2,"My Family,My Friends",3,3,,Neutral,"Work,Health,Sleep,Personal",6520
+mr1,6/2/22,Wednesday,6/1/22 23:20,6/2/22 5:57,23850,6.225,0.485089463,3300,11790,7320,3,None,6/1/22 23:20,6/2/22 5:45,2,"My Family,My colleagues/classsmates/students",3,3,,Neutral,"Work,Health,Sleep,Personal",13
+mr1,6/3/22,Thursday,6/2/22 23:09,6/3/22 6:03,24840,6.558333333,0.352233677,5700,11760,6150,3,None,6/2/22 23:00,6/3/22 5:16,2,"My Family,My colleagues/classsmates/students",3,3,,Neutral,"Work,Health,Sleep",14624
+mr1,6/6/22,Sunday,6/5/22 21:56,6/6/22 4:50,24870,6.808333333,0.253067485,2940,16620,4950,4,None,6/5/22 22:11,6/6/22 4:45,3,"My Family,My Friends",3,3,,"Neutral,Happiness","Work,Health,Sleep,Personal",11991
+mr1,6/7/22,Monday,6/6/22 23:05,6/7/22 6:41,27390,6.533333333,0.397504456,3630,13200,6690,3,None,6/6/22 23:19,6/7/22 6:19,3,"My Family,My Friends",3,3,,Neutral,"Work,Health,Sleep",6708
+mr1,6/14/22,Monday,6/13/22 21:59,6/14/22 5:01,25320,6.833333333,0.485507246,1980,14580,8040,3,None,6/13/22 22:10,6/14/22 5:00,2,"My Family,My Friends",3,3,,Neutral,"Work,Health",9927
+mr1,6/20/22,Sunday,6/19/22 23:20,6/20/22 5:30,22230,6.166666667,0.245791246,2310,15510,4380,3,None,6/19/22 23:00,6/20/22 5:29,3,"My Family,My Friends",3,3,,Neutral,"Work,Health,Sleep",15020
+mr1,6/21/22,Monday,6/20/22 22:13,6/21/22 5:28,26070,7.008333333,0.29984544,4410,15000,5820,3,None,6/20/22 22:20,6/21/22 5:30,2,"My Family,My Friends,My colleagues/classsmates/students",3,3,,Neutral,"Work,Health,Sleep",14593
+mr1,6/22/22,Tuesday,6/21/22 22:21,6/22/22 5:30,25740,6.933333333,0.386666667,3030,14970,6960,3,None,6/21/22 22:05,6/22/22 5:21,2,"My Family,My colleagues/classsmates/students",3,3,,Neutral,"Work,Health,Sleep",11416
+mr1,6/24/22,Thursday,6/23/22 22:48,6/24/22 5:36,24480,6.791666667,0.432337434,3720,13350,7380,4,None,6/23/22 22:06,6/24/22 5:30,3,"My Family,My colleagues/classsmates/students",3,3,,Neutral,"Work,Health,Sleep,Personal",11405
+mr1,6/25/22,Friday,6/24/22 21:33,6/25/22 6:46,33150,8.683333333,0.402422611,3090,19200,8970,2,None,6/24/22 21:47,6/25/22 6:20,2,"My Family,My colleagues/classsmates/students",3,3,,Neutral,"Work,Health",9786
+mr1,6/26/22,Saturday,6/25/22 21:52,6/26/22 6:50,32310,8.391666667,0.457308249,4770,15960,9480,3,None,6/25/22 21:00,6/26/22 6:30,3,"My Family,My Friends,My colleagues/classsmates/students",3,3,,Neutral,"Work,Health,Sleep,Personal",13855
+mr1,6/27/22,Sunday,6/26/22 22:32,6/27/22 6:02,27000,6.841666667,0.266975309,3690,15750,5190,3,None,6/26/22 22:00,6/27/22 6:00,2,"My Family,My colleagues/classsmates/students,New people",3,3,,Neutral,"Work,Health,Sleep",15494
+oyb,5/2/22,Sunday,5/1/22 23:39,5/2/22 8:10,30660,7.391666667,0.185828877,6060,16380,4170,4,None,5/1/22 23:00,5/2/22 8:00,0,Nobody,5,4,6,Neutral,Work,17758
+oyb,5/9/22,Sunday,5/8/22 23:44,5/9/22 9:01,33420,7.841666667,0.34620887,6510,14460,7260,5,None,5/9/22 0:00,5/9/22 8:00,1,Nobody,5,3,5,"Neutral,Stressed","Work,Personal",11670
+oyb,5/12/22,Wednesday,5/11/22 23:47,5/12/22 9:46,35910,8.908333333,0.302070646,6510,18120,7440,3,None,5/12/22 0:00,5/12/22 9:00,0,"My Family,My Friends",4,3,3,"Excited,Fear,Anger,Stressed,Frustrated",Personal,10115
+oyb,5/15/22,Sunday,5/15/22 0:28,5/15/22 9:36,32910,8.333333333,0.2300123,5940,18450,5610,5,Twice,5/15/22 0:30,5/15/22 9:20,1,Nobody,4,1,3,Frustrated,Sleep,9591
+oyb,5/17/22,Monday,5/16/22 22:30,5/17/22 9:06,38130,9.491666667,0.33685446,6180,19380,8610,4,Once,5/16/22 23:30,5/17/22 8:10,1,"My Family,My Friends",4,5,7,"Neutral,Excited","Work,Health,Sleep,Personal,Yesterday's feelings",11797
+oyb,5/18/22,Tuesday,5/17/22 18:43,5/18/22 6:47,43470,9,0.224555735,4230,14340,4170,2,None,5/18/22 0:03,5/18/22 6:03,2,My colleagues/classsmates/students,5,4,6,"Neutral,Happiness,Anger","Work,Personal",15345
+oyb,5/19/22,Wednesday,5/18/22 22:28,5/19/22 6:44,29730,7.141666667,0.242028986,6540,14160,5010,5,Once,5/18/22 23:00,5/19/22 6:00,1,My Friends,3,2,4,"Neutral,Frustrated",Sleep,14056
+oyb,5/20/22,Thursday,5/19/22 22:21,5/20/22 9:51,41400,10.03333333,0.193260654,5910,24360,5850,2,None,5/20/22 0:00,5/20/22 7:46,1,My Friends,5,5,6,"Happiness,Excited","Work,Sleep,Personal",18804
+oyb,5/21/22,Saturday,5/21/22 0:34,5/21/22 9:13,31140,7.833333333,0.23521682,6420,16410,5370,5,Once,5/21/22 0:10,5/21/22 8:00,2,"My Friends,My colleagues/classsmates/students",4,4,7,Neutral,Sleep,14186
+oyb,5/23/22,Sunday,5/22/22 23:08,5/23/22 9:37,37770,8.866666667,0.20361991,3180,23340,5400,1,None,5/23/22 4:40,5/23/22 8:33,2,"My Friends,My colleagues/classsmates/students",5,4,5,Neutral,Work,5517
+oyb,5/26/22,Thursday,5/26/22 1:52,5/26/22 10:08,29730,7.025,0.236070381,4590,15870,4830,3,None,5/26/22 2:28,5/26/22 9:20,1,"My Family,My Friends",5,4,6,"Neutral,Happiness","Work,Health,Sleep,Personal,Yesterday's feelings",12688
+oyb,5/28/22,Saturday,5/28/22 1:08,5/28/22 11:27,37140,8.825,0.250295159,4650,20760,6360,4,Twice,5/28/22 2:10,5/28/22 9:20,1,"My Friends,My colleagues/classsmates/students",5,4,6,Neutral,"Work,Sleep,Personal",12560
+oyb,5/29/22,Sunday,5/29/22 0:03,5/29/22 10:36,38010,9.741666667,0.227941176,6660,21900,6510,5,None,5/29/22 0:43,5/29/22 9:35,0,My Friends,5,3,,"Neutral,Frustrated","Work,Personal",14548
+oyb,6/3/22,Thursday,6/2/22 22:00,6/3/22 9:04,39870,10.04166667,0.248704663,7260,21690,7200,5,None,6/2/22 22:30,6/3/22 8:30,2,My Friends,5,5,6,"Neutral,Happiness","Work,Health,Sleep,Personal",19789
+oyb,6/4/22,Friday,6/3/22 23:47,6/4/22 4:04,15420,3.966666667,,0,0,0,3,None,6/4/22 0:25,6/4/22 8:30,1,My Friends,4,2,5,Neutral,"Work,Health,Sleep",10911
+oyb,6/7/22,Monday,6/6/22 22:38,6/7/22 6:48,29400,7.233333333,0.301349325,5190,14820,6030,4,None,6/6/22 23:00,6/7/22 6:35,1,Nobody,4,4,5,Neutral,"Work,Health",7407
+oyb,6/8/22,Tuesday,6/7/22 23:23,6/8/22 9:20,35790,8.441666667,0.307096774,8250,15000,7140,3,None,6/8/22 1:00,6/8/22 8:40,1,My Friends,4,4,6,"Neutral,Happiness,Stressed","Work,Health,Personal",18442
+oyb,6/15/22,Wednesday,6/15/22 1:13,6/15/22 9:22,29370,7.216666667,0.244252874,6750,14130,5100,5,None,6/15/22 0:45,6/15/22 8:40,1,My Friends,4,2,3,"Neutral,Frustrated",Sleep,22949
+oyb,6/19/22,Sunday,6/19/22 2:32,6/19/22 6:33,14490,3.75,0.025056948,1020,12150,330,1,Once,6/19/22 3:20,6/19/22 6:05,0,"My Family,My Friends",2,2,,Stressed,Work,13986
+ssg,5/8/22,Sunday,5/8/22 0:23,5/8/22 7:26,25350,6.091666667,0.296099291,3840,13080,5010,4,None,5/8/22 0:00,5/8/22 7:30,1,My colleagues/classsmates/students,3,1,6,Excited,Personal,4003
+ssg,5/9/22,Sunday,5/8/22 19:22,5/9/22 6:29,40020,10.53333333,0.379912664,4500,22980,10440,4,Once,5/8/22 20:15,5/9/22 6:30,0,My Friends,3,1,6,Excited,,2797
+ssg,5/10/22,Monday,5/9/22 23:15,5/10/22 7:10,28500,6.425,0.186153846,3120,16380,3630,1,None,5/9/22 23:30,5/10/22 1:35,0,My Friends,4,3,7,Happiness,Personal,11783
+ssg,5/11/22,Tuesday,5/10/22 23:11,5/11/22 4:08,17850,4.691666667,0.327830189,2250,10470,4170,4,Three or more times,5/10/22 23:30,5/11/22 4:00,2,My Family,2,2,4,Stressed,Work,11299
+ssg,5/12/22,Wednesday,5/11/22 23:28,5/12/22 6:18,24570,6.125,0.392045455,3390,12450,6210,4,Once,5/11/22 23:30,5/12/22 6:00,1,"My Family,My colleagues/classsmates/students",1,4,2,"Stressed,Frustrated","Work,Health",15031
+ssg,5/13/22,Thursday,5/12/22 22:37,5/13/22 6:12,27270,6.658333333,0.499061914,2640,13350,7980,3,Once,5/12/22 23:30,5/13/22 6:00,3,"My Family,My Friends,My colleagues/classsmates/students",4,4,6,Happiness,Personal,7950
+ssg,5/15/22,Sunday,5/15/22 0:14,5/15/22 7:23,25740,6.641666667,0.386086957,2040,15210,6660,3,Once,5/15/22 0:30,5/15/22 6:50,1,"My Friends,My colleagues/classsmates/students",5,2,7,Contempt,Personal,1783
+ssg,5/16/22,Sunday,5/15/22 23:15,5/16/22 5:39,23010,5.766666667,0.381237525,2700,12330,5730,4,Once,5/15/22 23:30,5/16/22 5:30,1,My Friends,5,3,6,Neutral,Personal,7967
+ssg,5/17/22,Monday,5/16/22 22:28,5/17/22 6:37,29340,7.566666667,0.42992126,4920,14130,8190,1,Once,5/16/22 23:30,5/17/22 5:30,1,"My Friends,My colleagues/classsmates/students",4,4,6,Neutral,"Work,Health,Personal",11975
+ssg,5/18/22,Wednesday,5/18/22 0:07,5/18/22 4:45,16710,4.25,0.164383562,1950,11190,2160,1,Twice,5/18/22 0:15,5/18/22 4:30,3,My colleagues/classsmates/students,2,3,2,Other,"Health,Sleep",9622
+ssg,5/19/22,Wednesday,5/18/22 22:39,5/19/22 6:30,28230,7.291666667,0.669847328,4110,11610,10530,3,Three or more times,5/18/22 23:00,5/19/22 6:30,2,My colleagues/classsmates/students,1,5,2,Other,"Work,Health,Sleep",13907
+ssg,5/26/22,Wednesday,5/25/22 23:52,5/26/22 8:24,30750,6.891666667,0.41609589,2850,14670,7290,1,None,5/26/22 0:00,5/26/22 8:00,2,My Friends,4,3,6,Neutral,"Work,Health",14976
+ssg,5/27/22,Thursday,5/26/22 22:23,5/27/22 7:56,34350,8.233333333,0.342391304,5730,16350,7560,5,Once,5/26/22 23:30,5/27/22 8:15,3,My Friends,3,4,5,Neutral,Sleep,2733
+ssg,5/28/22,Saturday,5/28/22 1:13,5/28/22 7:38,23130,5.858333333,0.54845815,1500,12120,7470,5,None,5/28/22 1:00,5/28/22 7:30,1,My Family,5,4,6,Contempt,"Work,Sleep,Personal",4699
+ssg,5/30/22,Monday,5/30/22 0:29,5/30/22 7:58,26940,6.833333333,0.451327434,3240,13710,7650,5,Once,5/30/22 0:45,5/30/22 8:00,2,"My Friends,New people",4,1,6,Neutral,Personal,5654
+ssg,5/31/22,Monday,5/30/22 23:04,5/31/22 6:05,25290,6.608333333,0.369602763,4230,13140,6420,5,Once,5/30/22 23:15,5/31/22 6:00,2,"My Friends,My colleagues/classsmates/students",5,4,6,Neutral,"Work,Sleep,Personal",4474
+ssg,6/1/22,Tuesday,5/31/22 21:48,6/1/22 6:37,31740,7.941666667,0.512698413,2970,15930,9690,5,None,5/31/22 22:00,6/1/22 6:30,2,My colleagues/classsmates/students,5,2,6,Happiness,Personal,7323
+ssg,6/3/22,Thursday,6/2/22 22:46,6/3/22 6:17,27060,6.166666667,0.314387211,2100,14790,5310,2,Three or more times,6/2/22 22:45,6/3/22 6:00,2,"My Friends,My colleagues/classsmates/students",2,2,2,Stressed,Health,5741
+ssg,6/4/22,Friday,6/3/22 22:41,6/4/22 7:00,29940,6.816666667,0.296354992,1140,17790,5610,1,Three or more times,6/3/22 22:45,6/4/22 6:30,1,Nobody,2,1,3,Stressed,Health,690
+ssg,6/12/22,Sunday,6/12/22 1:35,6/12/22 8:32,24990,6.166666667,0.338155515,4080,12510,5610,4,Once,6/12/22 1:30,6/12/22 8:30,2,"My Friends,New people",5,1,6,Excited,Personal,6958
+ssg,6/13/22,Sunday,6/12/22 23:15,6/13/22 8:22,32820,7.75,0.361639824,5550,14940,7410,3,Twice,6/12/22 23:30,6/13/22 8:00,2,"My Family,My Friends,New people",5,2,5,Neutral,Health,7610
+ssg,6/16/22,Wednesday,6/15/22 22:14,6/16/22 6:30,29730,7.075,0.34548336,3600,15330,6540,4,Twice,6/15/22 22:30,6/16/22 6:15,3,"My Family,My Friends,New people",5,1,7,Neutral,Personal,7424
+ssg,6/17/22,Thursday,6/16/22 23:33,6/17/22 7:56,30150,7.433333333,0.331343284,5880,14220,6660,5,Once,6/16/22 23:30,6/17/22 8:00,2,"My Family,New people",5,3,6,Happiness,"Health,Personal",8960
+ssg,6/18/22,Saturday,6/18/22 0:43,6/18/22 8:13,26970,6.7,0.443447038,4920,11790,7410,3,None,6/18/22 0:45,6/18/22 7:30,1,"My Family,My Friends,New people",5,1,7,Happiness,Personal,3382
+ssg,6/22/22,Tuesday,6/21/22 23:08,6/22/22 5:03,21270,5.533333333,0.515981735,1290,11850,6780,3,Three or more times,6/21/22 23:45,6/22/22 5:00,1,My colleagues/classsmates/students,3,2,3,Neutral,"Sleep,Personal",10567
+ssg,6/23/22,Wednesday,6/22/22 23:00,6/23/22 7:48,31650,8.116666667,0.438700148,4800,15510,8910,5,Once,6/22/22 23:00,6/23/22 7:45,3,My colleagues/classsmates/students,2,4,5,Excited,Personal,6204
+uja,4/28/22,Thursday,4/28/22 3:14,4/28/22 10:11,25020,6.533333333,0.454545455,4770,11400,7350,3,Twice,4/28/22 3:15,4/28/22 10:30,1,"My Friends,New people",2,3,3,Stressed,Work,6600
+uja,4/29/22,Friday,4/29/22 2:23,4/29/22 11:07,31470,7.308333333,0.314842579,5730,14280,6300,4,Once,4/29/22 2:25,4/29/22 11:00,0,My Friends,4,3,3,"Neutral,Sadness,Frustrated","Work,Sleep",4497
+uja,4/30/22,Saturday,4/30/22 0:02,4/30/22 11:12,40230,8.666666667,0.279672578,6120,15870,6150,3,None,4/30/22 2:20,4/30/22 11:00,0,"My Family,My Friends,My colleagues/classsmates/students,New people",4,3,4,"Neutral,Frustrated",Work,11651
+uja,5/1/22,Sunday,5/1/22 2:28,5/1/22 10:32,29040,7.408333333,0.290275762,3210,17460,6000,4,None,5/1/22 2:30,5/1/22 11:00,0,"My Family,My Friends,My colleagues/classsmates/students,New people",4,4,6,Happiness,Personal,5151
+uja,5/2/22,Monday,5/2/22 3:11,5/2/22 10:43,27150,6.716666667,0.34557596,5550,12420,6210,4,None,5/2/22 3:00,5/2/22 9:30,1,My Family,4,2,5,Stressed,Work,4937
+uja,5/9/22,Monday,5/9/22 3:18,5/9/22 10:10,24720,6.316666667,0.339222615,5370,11610,5760,4,None,5/9/22 3:00,5/9/22 10:00,1,My Family,4,2,6,"Happiness,Stressed","Work,Personal",3673
+uja,5/10/22,Tuesday,5/10/22 3:50,5/10/22 10:32,24120,6.475,0.457786116,4350,11640,7320,4,None,5/10/22 3:30,5/10/22 10:30,0,"My Friends,My colleagues/classsmates/students,New people",4,4,6,Happiness,"Work,Sleep,Personal",11487
+uja,5/11/22,Wednesday,5/11/22 0:30,5/11/22 10:32,36150,7.875,0.32295082,5550,12750,5910,3,None,5/11/22 3:00,5/11/22 10:30,1,"My Family,My Friends",2,3,4,"Anger,Stressed",Work,9229
+uja,5/14/22,Saturday,5/14/22 2:36,5/14/22 10:43,29220,7.658333333,0.3903177,6690,13140,7740,4,None,5/14/22 3:00,5/14/22 10:30,0,"My Family,My Friends,New people",4,2,6,Happiness,Work,7695
+uja,5/15/22,Sunday,5/15/22 0:58,5/15/22 11:07,36570,8.15,0.219451372,5580,18480,5280,3,Once,5/15/22 2:30,5/15/22 11:00,1,"My Family,My Friends,New people",4,3,5,Neutral,"Work,Personal",7606
+uja,5/16/22,Monday,5/16/22 1:01,5/16/22 7:12,22290,5.658333333,0.197530864,5220,11790,3360,3,None,5/16/22 1:00,5/16/22 7:00,0,My Friends,4,2,5,Stressed,"Work,Personal",8770
+uja,5/17/22,Tuesday,5/17/22 1:16,5/17/22 7:40,23040,5.8,0.296089385,4200,11910,4770,3,Once,5/17/22 1:20,5/17/22 7:40,0,"My Family,My Friends",4,3,6,Happiness,"Work,Personal",15296
+uja,5/18/22,Wednesday,5/18/22 1:12,5/18/22 8:02,24600,6.325,0.230145867,4170,14340,4260,4,None,5/18/22 1:00,5/18/22 8:00,1,"My Family,My Friends",3,3,6,Happiness,"Work,Personal",10659
+uja,5/19/22,Thursday,5/19/22 1:31,5/19/22 8:30,25170,6.483333333,0.320882852,4710,12960,5670,4,None,5/19/22 1:30,5/19/22 8:20,1,"My Family,My Friends",2,4,6,Happiness,"Work,Personal",11641
+uja,5/20/22,Friday,5/20/22 1:10,5/20/22 8:06,24960,6.633333333,0.358361775,4200,13380,6300,4,None,5/20/22 1:20,5/20/22 8:00,1,My Friends,3,4,5,Neutral,"Work,Personal",15891
+uja,5/21/22,Friday,5/20/22 23:53,5/21/22 11:06,40410,10.025,0.180569185,8430,22140,5520,5,Once,5/21/22 0:00,5/21/22 10:00,1,"My Family,My Friends,New people",4,4,6,Happiness,Personal,7612
+uja,5/22/22,Sunday,5/22/22 0:59,5/22/22 7:46,24420,5.758333333,0.430641822,6090,8400,6240,4,None,5/22/22 1:00,5/22/22 8:00,0,"My Family,My Friends",4,3,6,Happiness,Personal,7450
+uja,5/23/22,Monday,5/23/22 1:53,5/23/22 8:56,25380,6.341666667,0.160060976,4080,15600,3150,3,None,5/23/22 2:00,5/23/22 8:15,1,"My Family,My Friends",4,4,6,Neutral,,6161
+uja,5/24/22,Tuesday,5/24/22 1:41,5/24/22 8:24,24210,6.108333333,0.2616179,4710,12720,4560,3,None,5/24/22 2:00,5/24/22 8:30,0,"My Family,My Friends",3,3,6,"Happiness,Frustrated","Work,Yesterday's feelings",10921
+uja,5/25/22,Wednesday,5/25/22 1:08,5/25/22 8:28,26400,6.883333333,0.282608696,4920,14400,5460,3,Twice,5/25/22 1:15,5/25/22 7:30,1,My Friends,2,2,3,"Stressed,Frustrated",Work,14464
+uja,5/26/22,Thursday,5/26/22 1:18,5/26/22 8:15,25020,6.15,0.301587302,5730,11280,5130,4,None,5/26/22 1:15,5/26/22 8:15,1,"My Friends,New people",3,3,3,Frustrated,"Work,Sleep",9845
+uja,5/27/22,Friday,5/27/22 0:23,5/27/22 8:19,28590,7.458333333,0.327893175,3960,16260,6630,4,Once,5/27/22 0:30,5/27/22 8:15,1,"My Family,My Friends",4,4,6,Neutral,"Work,Personal",10193
+uja,5/30/22,Monday,5/30/22 0:53,5/30/22 9:49,32190,7.566666667,0.409937888,4350,14970,7920,4,None,5/30/22 2:10,5/30/22 10:00,1,"My Family,My Friends",5,3,6,Happiness,Personal,12596
+uja,6/1/22,Wednesday,6/1/22 0:50,6/1/22 8:21,27090,6.858333333,0.283931357,4440,14790,5460,4,Twice,6/1/22 0:30,6/1/22 8:20,0,"My Family,My Friends,New people",3,2,5,"Stressed,Frustrated",Work,9498
+uja,6/2/22,Thursday,6/2/22 1:41,6/2/22 8:50,25770,6.566666667,0.302479339,4950,13200,5490,4,Twice,6/2/22 2:00,6/2/22 9:00,1,My Friends,3,2,6,Neutral,Work,10639
+uja,6/3/22,Friday,6/3/22 0:46,6/3/22 9:10,30270,7.516666667,0.150510204,5700,17820,3540,3,None,6/3/22 1:20,6/3/22 8:30,1,"My Family,My Friends",4,4,6,Happiness,"Work,Personal",7989
+uja,6/10/22,Friday,6/10/22 1:30,6/10/22 9:16,27990,6.791666667,0.2734375,4320,14880,5250,4,None,6/10/22 1:30,6/10/22 8:30,0,"My Family,My Friends,New people",4,4,6,Happiness,"Work,Personal",10542
+uja,6/11/22,Saturday,6/11/22 1:37,6/11/22 5:13,12990,3.366666667,0.294871795,570,8790,2760,4,None,6/11/22 2:00,6/11/22 9:30,1,"My Family,My Friends,New people",4,4,6,Happiness,"Work,Personal",10597
+uja,6/12/22,Sunday,6/12/22 2:24,6/12/22 12:20,35790,8.108333333,0.134032634,4410,21330,3450,4,None,6/12/22 2:20,6/12/22 10:30,1,"My Family,My Friends",5,3,5,Happiness,Personal,7013
+uja,6/13/22,Monday,6/13/22 1:02,6/13/22 9:24,30090,7.766666667,0.262872629,6840,15300,5820,3,None,6/13/22 1:00,6/13/22 9:00,0,"My Family,My Friends",2,2,5,Stressed,Work,6931
+uja,6/14/22,Tuesday,6/14/22 1:02,6/14/22 9:58,32160,8.008333333,0.261154856,5310,17550,5970,4,Once,6/14/22 1:00,6/14/22 10:00,1,"My Family,My Friends",2,2,4,"Anger,Stressed","Work,Personal",6863
+uja,6/15/22,Wednesday,6/15/22 1:16,6/15/22 8:07,24690,6.416666667,0.302876481,2970,14760,5370,4,None,6/15/22 1:30,6/15/22 8:00,0,My Friends,3,2,5,Neutral,"Work,Personal",6577
+uja,6/16/22,Thursday,6/16/22 1:55,6/16/22 9:16,26490,6.608333333,0.2390625,4380,14820,4590,4,Once,6/16/22 2:00,6/16/22 9:30,0,"My Family,My Friends",4,2,5,Neutral,Work,13384
+xil,5/6/22,Friday,5/6/22 1:10,5/6/22 8:47,27420,7.141666667,0.404918033,4500,13800,7410,2,Twice,5/6/22 1:00,5/6/22 8:50,1,"My Friends,My colleagues/classsmates/students",4,4,5,"Happiness,Excited",Personal,13733
+xil,5/7/22,Saturday,5/7/22 0:57,5/7/22 9:08,29490,7.958333333,0.238651102,3780,19350,5520,4,Twice,5/7/22 1:00,5/7/22 9:10,1,"My Friends,My colleagues/classsmates/students",3,1,3,"Neutral,Stressed",Work,12871
+xil,5/10/22,Tuesday,5/10/22 0:38,5/10/22 6:59,22890,5.825,0.341650672,4290,11340,5340,3,Once,5/10/22 0:40,5/10/22 7:00,0,My Friends,2,4,3,"Stressed,Frustrated","Work,Personal",9016
+xil,5/13/22,Friday,5/13/22 0:08,5/13/22 7:27,26310,6.733333333,0.303225806,5610,12990,5640,3,Twice,5/13/22 0:00,5/13/22 7:09,1,"My Friends,My colleagues/classsmates/students",4,4,6,Happiness,"Work,Sleep,Personal",10790
+xil,5/14/22,Saturday,5/14/22 0:38,5/14/22 7:38,25200,6.5,0.532416503,4260,11010,8130,4,Twice,5/14/22 0:40,5/14/22 7:40,0,"My Friends,My colleagues/classsmates/students,New people",2,4,,"Neutral,Stressed",Work,11793
+xil,5/17/22,Monday,5/16/22 23:37,5/17/22 7:25,28080,6.916666667,0.358428805,5070,13260,6570,2,Twice,5/17/22 0:00,5/17/22 7:20,1,My Friends,4,4,6,"Happiness,Excited","Health,Personal",9986
+xil,5/18/22,Tuesday,5/17/22 22:44,5/18/22 6:27,27750,6.958333333,0.346774194,5280,13320,6450,4,Twice,5/17/22 23:30,5/18/22 6:20,1,"My Friends,My colleagues/classsmates/students",3,3,5,"Neutral,Happiness","Work,Sleep,Personal",11512
+xil,5/19/22,Thursday,5/19/22 0:26,5/19/22 6:59,23610,6.091666667,0.194444444,3150,15210,3570,2,None,5/19/22 0:30,5/19/22 7:00,0,"My Friends,My colleagues/classsmates/students",4,4,6,"Neutral,Happiness,Excited","Work,Personal",11399
+xil,5/20/22,Thursday,5/19/22 23:53,5/20/22 7:40,28050,7.541666667,0.360902256,4500,15450,7200,5,None,5/19/22 23:30,5/20/22 7:30,1,"My Friends,My colleagues/classsmates/students",5,1,6,"Happiness,Excited",Personal,16118
+xil,5/23/22,Monday,5/23/22 0:47,5/23/22 6:58,22260,5.758333333,0.233928571,3210,13590,3930,4,None,5/23/22 0:30,5/23/22 7:00,0,My Friends,3,1,5,"Neutral,Happiness,Excited","Work,Personal",16655
+xil,5/24/22,Monday,5/23/22 23:44,5/24/22 7:51,29190,7.525,0.341753343,4980,15210,6900,4,None,5/24/22 0:00,5/24/22 8:00,1,"My Friends,My colleagues/classsmates/students",4,2,5,"Neutral,Happiness",Work,13869
+xil,5/29/22,Sunday,5/29/22 0:02,5/29/22 7:08,25590,6.616666667,0.293159609,5880,12540,5400,5,Once,5/29/22 0:30,5/29/22 8:00,1,"My Friends,New people",5,1,5,"Happiness,Excited","Work,Sleep",14217
+xil,5/30/22,Monday,5/30/22 0:50,5/30/22 7:51,25260,6.55,0.329949239,4920,12810,5850,3,Once,5/30/22 1:00,5/30/22 7:30,1,My Friends,5,2,6,"Neutral,Happiness,Frustrated","Work,Health,Personal",5957
+xil,5/31/22,Monday,5/30/22 23:55,5/31/22 6:23,23310,6.15,0.240336134,4140,13710,4290,4,None,5/31/22 0:00,5/31/22 6:30,1,My Friends,3,3,5,Neutral,"Work,Sleep",7640
+xil,6/1/22,Wednesday,6/1/22 0:02,6/1/22 7:56,28440,7.341666667,0.372274143,4830,14430,7170,3,Once,6/1/22 0:10,6/1/22 6:55,1,My Friends,4,2,5,Happiness,"Work,Personal",8917
+xil,6/2/22,Wednesday,6/1/22 23:32,6/2/22 7:39,29190,7.416666667,0.330343797,3630,16440,6630,3,Once,6/2/22 0:00,6/2/22 7:30,0,"My Friends,My colleagues/classsmates/students",4,2,5,Happiness,"Work,Sleep",8956
+xil,6/3/22,Thursday,6/2/22 23:10,6/3/22 7:59,31710,8.15,0.302263648,5250,17280,6810,4,Twice,6/2/22 23:30,6/3/22 7:50,1,"My Friends,My colleagues/classsmates/students",2,2,4,Neutral,"Work,Sleep",17187
+xil,6/7/22,Monday,6/6/22 22:22,6/7/22 4:28,21990,5.541666667,0.266666667,3090,12660,4200,4,Once,6/6/22 23:30,6/7/22 6:00,1,My Friends,3,4,6,Neutral,"Work,Sleep,Personal",8444
+xil,6/8/22,Tuesday,6/7/22 23:26,6/8/22 7:06,27600,7.308333333,0.340978593,4830,14790,6690,3,None,6/7/22 23:30,6/8/22 6:40,1,My colleagues/classsmates/students,5,4,7,Happiness,"Work,Health,Sleep",6940
+xil,6/11/22,Saturday,6/11/22 1:34,6/11/22 8:34,25230,6.391666667,0.320137694,6210,11220,5580,2,None,6/11/22 2:00,6/11/22 8:15,1,"My Friends,My colleagues/classsmates/students",5,4,7,Happiness,"Work,Health,Sleep",11678
+xil,6/12/22,Saturday,6/11/22 23:21,6/12/22 8:19,32310,8.333333333,0.386962552,5910,15720,8370,4,None,6/12/22 0:00,6/12/22 8:00,0,"My Friends,My colleagues/classsmates/students",4,2,5,"Neutral,Stressed",Work,7247
+xil,6/13/22,Sunday,6/12/22 23:16,6/13/22 7:04,28050,6.85,0.191304348,5190,15510,3960,3,Once,6/12/22 23:30,6/13/22 6:45,1,My Friends,3,2,5,Happiness,"Health,Personal",11423
+xil,6/14/22,Monday,6/13/22 23:27,6/14/22 6:34,25650,6.366666667,0.256578947,3630,14610,4680,3,None,6/13/22 23:30,6/14/22 7:00,1,My Friends,2,3,,"Neutral,Stressed",Work,11408
+xil,6/17/22,Thursday,6/16/22 22:59,6/17/22 6:03,25440,6.45,0.232484076,5070,13770,4380,4,Twice,6/16/22 23:00,6/17/22 6:00,1,"My Friends,My colleagues/classsmates/students",4,4,5,Happiness,"Work,Health",11966
+xil,6/18/22,Friday,6/17/22 23:31,6/18/22 6:41,25800,6.7,0.388601036,4020,13350,6750,4,Once,6/18/22 0:00,6/18/22 6:30,1,"My Friends,My colleagues/classsmates/students",4,3,6,Happiness,"Work,Health",12508
+xil,6/19/22,Sunday,6/19/22 0:04,6/19/22 8:10,29160,7.541666667,0.328928047,5700,14730,6720,4,None,6/19/22 0:00,6/19/22 8:00,1,"My Friends,My colleagues/classsmates/students",4,3,7,Happiness,"Work,Personal",21804
+xil,6/20/22,Sunday,6/19/22 23:06,6/20/22 6:34,26910,6.7,0.242658423,4380,15030,4710,3,Twice,6/20/22 0:00,6/20/22 6:00,0,My Friends,5,2,6,Happiness,"Health,Personal",8437
+xil,6/23/22,Thursday,6/23/22 0:14,6/23/22 6:55,24030,6.333333333,0.439393939,4830,11010,6960,3,None,6/23/22 0:00,6/23/22 6:30,0,"My Friends,My colleagues/classsmates/students",3,3,5,Happiness,Work,12094
+xil,6/24/22,Thursday,6/23/22 23:56,6/24/22 7:36,27600,7.275,0.324734446,4800,14970,6420,4,Twice,6/24/22 0:00,6/24/22 7:15,1,"My Friends,My colleagues/classsmates/students",4,2,6,Happiness,"Work,Personal",7244
+xil,6/25/22,Friday,6/24/22 22:57,6/25/22 7:03,29160,7.391666667,0.358346095,4620,14970,7020,4,Three or more times,6/24/22 23:30,6/25/22 7:00,0,"My Family,My Friends,My colleagues/classsmates/students",5,1,6,Happiness,Personal,10764
+xil,6/26/22,Sunday,6/26/22 0:27,6/26/22 6:22,21330,5.541666667,0.271510516,3780,11910,4260,2,Once,6/26/22 0:00,6/26/22 6:15,1,My Family,5,1,7,Happiness,Personal,10215
+xil,6/27/22,Monday,6/27/22 0:54,6/27/22 6:50,21330,5.758333333,0.470212766,4800,9300,6630,2,None,6/27/22 0:30,6/27/22 6:30,0,My Family,4,3,6,Happiness,"Health,Personal",8623
